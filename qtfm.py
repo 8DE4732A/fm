@@ -7,7 +7,7 @@ from urllib import parse
 
 def get_mp3_url(id) -> str:
     t = '/live/' + str(id) + '/64k.mp3'
-    ts = hex(int(datetime.now().timestamp()) + 60 * 60)[2:]
+    ts = '637b930f'
     a = 'app_id=web&path=' + parse.quote(t,safe="") + '&ts=' + parse.quote(ts,safe="")
     sign = hmac.new(bytes('Lwrpu$K5oP', encoding='utf-8'), bytes(a, encoding='utf-8'), 'MD5').hexdigest()
     return 'https://lhttp.qingting.fm/live/' + str(id) + '/64k.mp3?app_id=web&ts=' + str(ts) + '&sign=' + sign
@@ -23,12 +23,4 @@ def get_radios(cid):
     return r.json()['data']['radioPage']['contents']['items']
 
 if __name__ == '__main__':
-    data = {}
-    regions = get_regions()
-    for region in regions:
-        data[region['id']] = {
-            'title': region['title'],
-            'radios': get_radios(region['id'])
-        }
-    with open(sys.path[0] + '/data.json', 'w+', encoding='utf-8') as f:
-        f.write(json.dumps(data, indent=4, separators=(',', ':'), ensure_ascii=False))
+    print(get_mp3_url(20003))

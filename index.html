@@ -3,6 +3,7 @@
     <head>
         <title>FM</title>
         <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="shortcut icon" href="/avatar.png">
         <style>
             img.rotate{
                 -webkit-animation:myRotate 10s linear infinite;
@@ -19,6 +20,7 @@
                 100%{ -webkit-transform: rotate(360deg);}
             }
         </style>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js"></script
     </head>
     <body>
         <select id="regions"></select>
@@ -57,14 +59,19 @@
                                 tr.appendChild(td);
                                 tr.setAttribute('data-id', r['id']);
                                 tr.addEventListener('click', event => { 
-                                    let id = event.target.parentElement.getAttribute('data-id');
-                                    fetch('/mp3/' + id).then(rsp=>rsp.text()).then(rsp => {
-                                        let audio = document.querySelector('audio');
-                                        audio.src = rsp;
-                                        audio.play();
-                                        document.querySelectorAll('.rotate').forEach(o => o.removeAttribute('class'));
-                                        event.target.parentElement.childNodes[0].childNodes[0].setAttribute('class', 'rotate');
-                                    });
+                                    var id = event.target.parentElement.getAttribute('data-id');
+                                    var t = "/live/".concat(id, "/64k.mp3");
+                                    var n = (Math.floor(Date.now() / 1000) + 60 * 60).toString(16);
+                                    var r = encodeURIComponent("web");
+                                    var i = encodeURIComponent(t);
+                                    var a = "app_id=".concat(r, "&path=").concat(i, "&ts=").concat(n);
+                                    var o = CryptoJS.HmacMD5(a, "Lwrpu$K5oP").toString();
+                                    var url = "https://lhttp.qingting.fm".concat(t, "?app_id=").concat(r, "&ts=").concat(n, "&sign=").concat(encodeURIComponent(o));
+                                    let audio = document.querySelector('audio');
+                                    audio.src = url;
+                                    audio.play();
+                                    document.querySelectorAll('.rotate').forEach(o => o.removeAttribute('class'));
+                                    event.target.parentElement.childNodes[0].childNodes[0].setAttribute('class', 'rotate');
                                 });
                                 tbody.appendChild(tr);
                             }
