@@ -27,51 +27,50 @@
         <audio></audio>
         <script>
             document.addEventListener('DOMContentLoaded', (event) => {
-                document.querySelector('#regions').addEventListener('change', event => {
-                    fetch('/radios/' + event.target.value).then(rsp => rsp.json()).then(rsp => {
-                        console.info('radios', rsp);
-                        let tbody = document.querySelector('table > tbody');
-                        tbody.innerHTML = "";
-                        for (r of rsp) {
-                            let tr = document.createElement('tr');
-                            let td = document.createElement('td');
-                            td.innerHTML = `<img src=${r['imgUrl']} width="50px"></img>`;
-                            tr.appendChild(td);
-                            td = document.createElement('td');
-                            td.innerText = r['title'];
-                            tr.appendChild(td);
-                            td = document.createElement('td');
-                            td.innerText = r['desc'];
-                            tr.appendChild(td);
-                            tr.setAttribute('data-id', r['id']);
-                            tr.addEventListener('click', event => { 
-                                let id = event.target.parentElement.getAttribute('data-id');
-                                fetch('/mp3/' + id).then(rsp=>rsp.text()).then(rsp => {
-                                    let audio = document.querySelector('audio');
-                                    audio.src = rsp;
-                                    audio.play();
-                                    document.querySelectorAll('.rotate').forEach(o => o.removeAttribute('class'));
-                                    event.target.parentElement.childNodes[0].childNodes[0].setAttribute('class', 'rotate');
-                                });
-                            });
-                            tbody.appendChild(tr);
-                        }
-                    });
-                });
-
-                // set regions
-                fetch('/regions').then(rsp => rsp.json()).then(rsp => {
-                    console.info('regions', rsp)
+                data = {};
+                fetch('/data.json').then(rsp => rsp.json()).then(rsp => {
+                    data = rsp;
                     let region = document.querySelector('#regions');
-                    for (r of rsp) {
+                    for(let id in data) {
                         let option = document.createElement('option');
-                        option.setAttribute('value', r['id']);
-                        option.innerText = r['title'];
+                        option.setAttribute('value', id);
+                        option.innerText = data[id]['title'];
                         region.appendChild(option);
                     }
                 });
-                
-
+                document.querySelector('#regions').addEventListener('change', event => {
+                    for (let id in data) {
+                        if(id == event.target.value) {
+                            rsp = data[id]['radios'];
+                            let tbody = document.querySelector('table > tbody');
+                            tbody.innerHTML = "";
+                            for (r of rsp) {
+                                let tr = document.createElement('tr');
+                                let td = document.createElement('td');
+                                td.innerHTML = `<img src=${r['imgUrl']} width="50px"></img>`;
+                                tr.appendChild(td);
+                                td = document.createElement('td');
+                                td.innerText = r['title'];
+                                tr.appendChild(td);
+                                td = document.createElement('td');
+                                td.innerText = r['desc'];
+                                tr.appendChild(td);
+                                tr.setAttribute('data-id', r['id']);
+                                tr.addEventListener('click', event => { 
+                                    let id = event.target.parentElement.getAttribute('data-id');
+                                    fetch('/mp3/' + id).then(rsp=>rsp.text()).then(rsp => {
+                                        let audio = document.querySelector('audio');
+                                        audio.src = rsp;
+                                        audio.play();
+                                        document.querySelectorAll('.rotate').forEach(o => o.removeAttribute('class'));
+                                        event.target.parentElement.childNodes[0].childNodes[0].setAttribute('class', 'rotate');
+                                    });
+                                });
+                                tbody.appendChild(tr);
+                            }
+                        }
+                    }
+                });
             });
         </script>
     </body>

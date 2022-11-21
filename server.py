@@ -7,7 +7,7 @@ app = Sanic(__name__)
 
 @app.get("/")
 async def index(request):
-    with open(sys.path[0] + '/index.html', 'r', encoding='utf-8') as f:
+    with open(sys.path[0] + '/fm.html', 'r', encoding='utf-8') as f:
         return html(f.read())
 
 @app.get("/regions")

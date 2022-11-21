@@ -1,4 +1,6 @@
 import hmac
+import json
+import sys
 import requests
 from datetime import datetime
 from urllib import parse
@@ -21,4 +23,12 @@ def get_radios(cid):
     return r.json()['data']['radioPage']['contents']['items']
 
 if __name__ == '__main__':
-    get_radios(259)
+    data = {}
+    regions = get_regions()
+    for region in regions:
+        data[region['id']] = {
+            'title': region['title'],
+            'radios': get_radios(region['id'])
+        }
+    with open(sys.path[0] + '/data.json', 'w+', encoding='utf-8') as f:
+        f.write(json.dumps(data, indent=4, separators=(',', ':'), ensure_ascii=False))
