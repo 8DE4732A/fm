@@ -3,13 +3,76 @@
     <head>
         <title>FM</title>
         <meta name="viewport" content="width=device-width,initial-scale=1">
+        <style>
+            img.rotate{
+                -webkit-animation:myRotate 10s linear infinite;
+                animation:myRotate 10s linear infinite;
+            }
+            @-webkit-keyframes myRotate{
+                0%{ -webkit-transform: rotate(0deg);}
+                50%{ -webkit-transform: rotate(180deg);}
+                100%{ -webkit-transform: rotate(360deg);}
+            }
+            @keyframes myRotate{
+                0%{ -webkit-transform: rotate(0deg);}
+                50%{ -webkit-transform: rotate(180deg);}
+                100%{ -webkit-transform: rotate(360deg);}
+            }
+        </style>
     </head>
     <body>
-        <div class="play-list">
+        <select id="regions"></select>
+        <table><tbody></tbody></table>
+        <div class="player"></div>
+        <audio></audio>
+        <script>
+            document.addEventListener('DOMContentLoaded', (event) => {
+                document.querySelector('#regions').addEventListener('change', event => {
+                    fetch('/radios/' + event.target.value).then(rsp => rsp.json()).then(rsp => {
+                        console.info('radios', rsp);
+                        let tbody = document.querySelector('table > tbody');
+                        tbody.innerHTML = "";
+                        for (r of rsp) {
+                            let tr = document.createElement('tr');
+                            let td = document.createElement('td');
+                            td.innerHTML = `<img src=${r['imgUrl']} width="50px"></img>`;
+                            tr.appendChild(td);
+                            td = document.createElement('td');
+                            td.innerText = r['title'];
+                            tr.appendChild(td);
+                            td = document.createElement('td');
+                            td.innerText = r['desc'];
+                            tr.appendChild(td);
+                            tr.setAttribute('data-id', r['id']);
+                            tr.addEventListener('click', event => { 
+                                let id = event.target.parentElement.getAttribute('data-id');
+                                fetch('/mp3/' + id).then(rsp=>rsp.text()).then(rsp => {
+                                    let audio = document.querySelector('audio');
+                                    audio.src = rsp;
+                                    audio.play();
+                                    document.querySelectorAll('.rotate').forEach(o => o.removeAttribute('class'));
+                                    event.target.parentElement.childNodes[0].childNodes[0].setAttribute('class', 'rotate');
+                                });
+                            });
+                            tbody.appendChild(tr);
+                        }
+                    });
+                });
 
-        </div>
-        <div class="audio-player">
+                // set regions
+                fetch('/regions').then(rsp => rsp.json()).then(rsp => {
+                    console.info('regions', rsp)
+                    let region = document.querySelector('#regions');
+                    for (r of rsp) {
+                        let option = document.createElement('option');
+                        option.setAttribute('value', r['id']);
+                        option.innerText = r['title'];
+                        region.appendChild(option);
+                    }
+                });
+                
 
-        </div>
+            });
+        </script>
     </body>
 </html>
