@@ -159,7 +159,14 @@
                 "title":"河北新闻广播",
                 "clout":14058,
                 "playcount":4076633,
-                "desc":"正在直播： 今日大不同"
+                "desc":"正在直播： 全省新闻联播",
+                "podcaster":{
+                    "id":5549,
+                    "username":"瑞芳",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1395622485-80x80.jpg",
+                    "weibo_name":"河北电台瑞芳",
+                    "weibo_id":"1395622485"
+                }
             },
             {
                 "id":1649,
@@ -216,7 +223,7 @@
                 "title":"石家庄新闻广播",
                 "clout":4341,
                 "playcount":185880,
-                "desc":"正在直播： 星河梦工厂"
+                "desc":"正在直播： 健康专题"
             },
             {
                 "id":20500111,
@@ -224,7 +231,12 @@
                 "title":"河北综合广播",
                 "clout":3818,
                 "playcount":162502,
-                "desc":"正在直播： 健康之声"
+                "desc":"正在直播： 全省新闻联播",
+                "podcaster":{
+                    "id":377793,
+                    "username":"边疆 瑞芳",
+                    "thumb":"http://pic.qtfm.cn/2021/0812/20210812051229.jpeg"
+                }
             },
             {
                 "id":5021555,
@@ -252,12 +264,7 @@
                 "title":"献县人民广播电台",
                 "clout":2382,
                 "playcount":84208,
-                "desc":"正在直播： 献县之声",
-                "podcaster":{
-                    "id":207336,
-                    "username":"一鸣  木子",
-                    "weibo_id":"0"
-                }
+                "desc":"正在直播： 空中书场"
             },
             {
                 "id":3950,
@@ -734,10 +741,10 @@
                 "title":"丹东综合广播",
                 "clout":2560,
                 "playcount":100363,
-                "desc":"正在直播： 夜听心语",
+                "desc":"正在直播： 朝鲜族时间",
                 "podcaster":{
-                    "id":83604,
-                    "username":"小 崔"
+                    "id":83607,
+                    "username":"春 弘"
                 }
             },
             {
