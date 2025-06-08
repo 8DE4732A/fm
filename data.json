@@ -8,7 +8,7 @@
                 "title":"北京新闻广播",
                 "clout":13804,
                 "playcount":2769644,
-                "desc":"正在直播： 主播在线"
+                "desc":"正在直播： 北京的声音"
             },
             {
                 "id":336,
@@ -16,7 +16,7 @@
                 "title":"北京交通广播",
                 "clout":12783,
                 "playcount":1786454,
-                "desc":"正在直播： 一路畅通"
+                "desc":"正在直播： 跃动的坐标"
             },
             {
                 "id":333,
@@ -24,7 +24,7 @@
                 "title":"北京文艺广播",
                 "clout":11842,
                 "playcount":892142,
-                "desc":"正在直播： 早安 北京"
+                "desc":"正在直播： 娱乐72变"
             },
             {
                 "id":335,
@@ -32,7 +32,7 @@
                 "title":"北京体育广播",
                 "clout":5958,
                 "playcount":451322,
-                "desc":"正在直播： 雄鸡唱晓"
+                "desc":"正在直播： 1025动生活（重播）"
             },
             {
                 "id":5021381,
@@ -40,10 +40,10 @@
                 "title":"959年代音乐怀旧好声音",
                 "clout":7875,
                 "playcount":381904,
-                "desc":"正在直播： 周末零压力",
+                "desc":"正在直播： 青春恋歌",
                 "podcaster":{
-                    "id":193306,
-                    "username":"无人驾驶"
+                    "id":381879,
+                    "username":"小莫"
                 }
             },
             {
@@ -52,7 +52,7 @@
                 "title":"北京音乐广播",
                 "clout":6074,
                 "playcount":210791,
-                "desc":"正在直播： 早安音乐秀"
+                "desc":"正在直播： 全球华语歌曲排行榜"
             },
             {
                 "id":345,
@@ -60,7 +60,7 @@
                 "title":"北京城市广播",
                 "clout":3803,
                 "playcount":112383,
-                "desc":"正在直播： 北京城市副中心新闻（早间版）"
+                "desc":"正在直播： 京城帮帮团"
             },
             {
                 "id":20211619,
@@ -68,10 +68,10 @@
                 "title":"1079音乐有话说",
                 "clout":3260,
                 "playcount":55000,
-                "desc":"正在直播： Morning有精神",
+                "desc":"正在直播： 音乐私享会",
                 "podcaster":{
-                    "id":381809,
-                    "username":"小亮"
+                    "id":381811,
+                    "username":"大燃"
                 }
             },
             {
@@ -80,7 +80,7 @@
                 "title":"京津冀之声",
                 "clout":2379,
                 "playcount":32759,
-                "desc":"正在直播： 文化京津冀（重播）"
+                "desc":"正在直播： 早安京津冀（重播）"
             },
             {
                 "id":20211620,
@@ -99,7 +99,8 @@
                 "imgUrl":"//pic.qtfm.cn/2015/0116/2015011616515998.jpg",
                 "title":"北京大兴人民广播电台FM986",
                 "clout":1936,
-                "playcount":19711
+                "playcount":19711,
+                "desc":"正在直播： 岁月留声"
             }
         ]
     },
@@ -112,7 +113,7 @@
                 "title":"天津滨海100.5",
                 "clout":4493,
                 "playcount":126645,
-                "desc":"正在直播： 音乐不打烊"
+                "desc":"正在直播： 乐唱越动听"
             },
             {
                 "id":20212227,
@@ -120,7 +121,7 @@
                 "title":"经典FM1008",
                 "clout":3553,
                 "playcount":57768,
-                "desc":"正在直播： 速度早高峰"
+                "desc":"正在直播： 资讯百脑汇"
             }
         ]
     },
@@ -133,12 +134,11 @@
                 "title":"河北新闻广播",
                 "clout":13886,
                 "playcount":3969540,
-                "desc":"正在直播： 河北新闻",
+                "desc":"正在直播： 有房有家",
                 "podcaster":{
-                    "id":5551,
-                    "username":"荣梅",
-                    "thumb":"http://pic.qtfm.cn/2020/0310/20200310044935.jpeg",
-                    "weibo_id":"2054220223"
+                    "id":293781,
+                    "username":"何蕊",
+                    "thumb":"http://pic.qtfm.cn/2019/0618/20190618112522.jpeg"
                 }
             },
             {
@@ -147,13 +147,13 @@
                 "title":"河北音乐广播",
                 "clout":13660,
                 "playcount":2631371,
-                "desc":"正在直播： 快乐出发",
+                "desc":"正在直播： 雕刻时光",
                 "podcaster":{
-                    "id":40367,
-                    "username":"阿宝",
-                    "thumb":"http://tp4.sinaimg.cn/1136309871/180/22861044859/0",
-                    "weibo_name":"阿葆的宝贝",
-                    "weibo_id":"1136309871"
+                    "id":40364,
+                    "username":"莎莎",
+                    "thumb":"http://tp2.sinaimg.cn/1784356877/180/22817954789/0",
+                    "weibo_name":"DJ莎莎同学",
+                    "weibo_id":"1784356877"
                 }
             },
             {
@@ -162,11 +162,10 @@
                 "title":"河北交通广播",
                 "clout":12117,
                 "playcount":1281140,
-                "desc":"正在直播： 992早高峰",
+                "desc":"正在直播： 992大家帮",
                 "podcaster":{
-                    "id":31957,
-                    "username":"卓凡 春子 禾岩 皓程",
-                    "weibo_id":"0"
+                    "id":31958,
+                    "username":"林夕 伟龙 小路 心亮"
                 }
             },
             {
@@ -175,10 +174,10 @@
                 "title":"经典音乐 FM90.5",
                 "clout":8578,
                 "playcount":541223,
-                "desc":"正在直播： 经典金曲",
+                "desc":"正在直播： 经典的经典",
                 "podcaster":{
-                    "id":265397,
-                    "username":"马小姐"
+                    "id":265398,
+                    "username":"马小安"
                 }
             },
             {
@@ -187,11 +186,7 @@
                 "title":"邯郸新闻综合广播",
                 "clout":3911,
                 "playcount":229042,
-                "desc":"正在直播： 《邯郸新闻》",
-                "podcaster":{
-                    "id":67488,
-                    "username":"李飞"
-                }
+                "desc":"正在直播： 《汽车立体声》"
             },
             {
                 "id":1652,
@@ -199,7 +194,7 @@
                 "title":"石家庄新闻广播",
                 "clout":4170,
                 "playcount":194216,
-                "desc":"正在直播： 新闻882"
+                "desc":"正在直播： 第一房产"
             },
             {
                 "id":5021555,
@@ -207,7 +202,7 @@
                 "title":"怀旧金曲964",
                 "clout":4833,
                 "playcount":150678,
-                "desc":"正在直播： 声动保定"
+                "desc":"正在直播： 青春恋歌"
             },
             {
                 "id":20500111,
@@ -215,12 +210,7 @@
                 "title":"河北综合广播",
                 "clout":3920,
                 "playcount":149255,
-                "desc":"正在直播： 河北新闻",
-                "podcaster":{
-                    "id":377789,
-                    "username":"荣梅 王鑫",
-                    "thumb":"http://pic.qtfm.cn/2021/0812/20210812051203.jpeg"
-                }
+                "desc":"正在直播： 健康之声"
             },
             {
                 "id":1655,
@@ -243,7 +233,11 @@
                 "title":"献县人民广播电台",
                 "clout":2492,
                 "playcount":95398,
-                "desc":"正在直播： 法律讲堂"
+                "desc":"正在直播： 畅享生活",
+                "podcaster":{
+                    "id":33730,
+                    "username":"小莫"
+                }
             },
             {
                 "id":3950,
@@ -251,10 +245,10 @@
                 "title":"邯郸交通广播",
                 "clout":2431,
                 "playcount":75354,
-                "desc":"正在直播： 清晨热线",
+                "desc":"正在直播： 交通热线",
                 "podcaster":{
-                    "id":159867,
-                    "username":"梁静"
+                    "id":15169,
+                    "username":"张曦"
                 }
             },
             {
@@ -263,7 +257,11 @@
                 "title":"任丘融媒体中心综合广播",
                 "clout":2250,
                 "playcount":72384,
-                "desc":"正在直播： 请您欣赏"
+                "desc":"正在直播： 一路同行",
+                "podcaster":{
+                    "id":28747,
+                    "username":"安迪/梦瑶"
+                }
             }
         ]
     },
@@ -276,7 +274,7 @@
                 "title":"上海新闻广播",
                 "clout":12748,
                 "playcount":1923273,
-                "desc":"正在直播： 990早新闻"
+                "desc":"正在直播： 直通990"
             },
             {
                 "id":276,
@@ -284,7 +282,7 @@
                 "title":"第一财经广播",
                 "clout":12140,
                 "playcount":1285992,
-                "desc":"正在直播： 财经早点"
+                "desc":"正在直播： 一财知道"
             },
             {
                 "id":273,
@@ -304,10 +302,10 @@
                 "title":"上海动感101",
                 "clout":11102,
                 "playcount":693966,
-                "desc":"正在直播： 音乐早餐（周日版）",
+                "desc":"正在直播： 音乐早餐（音乐零时差）",
                 "podcaster":{
-                    "id":47400,
-                    "username":"子劲"
+                    "id":380343,
+                    "username":"克里斯"
                 }
             },
             {
@@ -316,7 +314,7 @@
                 "title":"上海交通广播电台",
                 "clout":5172,
                 "playcount":202541,
-                "desc":"正在直播： 欢乐早高峰"
+                "desc":"正在直播： 1057车生活"
             },
             {
                 "id":275,
@@ -324,7 +322,7 @@
                 "title":"长三角之声",
                 "clout":4044,
                 "playcount":189806,
-                "desc":"正在直播： 一周长三角"
+                "desc":"正在直播： 先锋派报告"
             },
             {
                 "id":267,
@@ -332,7 +330,7 @@
                 "title":"上海经典947",
                 "clout":3922,
                 "playcount":126527,
-                "desc":"正在直播： 947晨曲"
+                "desc":"正在直播： 音乐美乐地"
             },
             {
                 "id":269,
@@ -363,7 +361,7 @@
                 "title":"东上海之声FM106.5",
                 "clout":1749,
                 "playcount":14831,
-                "desc":"正在直播： 转播中国之声"
+                "desc":"正在直播： 大牌主打歌"
             },
             {
                 "id":20202,
@@ -371,13 +369,13 @@
                 "title":"闵行人民广播电台",
                 "clout":1467,
                 "playcount":13368,
-                "desc":"正在直播： 听世界",
+                "desc":"正在直播： 美文妙律",
                 "podcaster":{
-                    "id":587,
-                    "username":"谢涛",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1786036570-80x80.jpg",
-                    "weibo_name":"谢涛微博",
-                    "weibo_id":"1786036570"
+                    "id":4968,
+                    "username":"闵行电台",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1763607540-80x80.jpg",
+                    "weibo_name":"闵行广播电台",
+                    "weibo_id":"1763607540"
                 }
             },
             {
@@ -386,7 +384,7 @@
                 "title":"金山区广播电视台综合广播",
                 "clout":1345,
                 "playcount":8504,
-                "desc":"正在直播： 转播上海人民广播电台990早新闻"
+                "desc":"正在直播： 小播客之诗文荟（重播）"
             }
         ]
     },
@@ -411,10 +409,10 @@
                 "title":"FM107太原交通广播",
                 "clout":6507,
                 "playcount":350027,
-                "desc":"正在直播： 107早班车",
+                "desc":"正在直播： 摄氏107度热爱",
                 "podcaster":{
-                    "id":163042,
-                    "username":"任婕"
+                    "id":380708,
+                    "username":"杨帆"
                 }
             },
             {
@@ -435,7 +433,12 @@
                 "title":"山西综合广播FM904",
                 "clout":3871,
                 "playcount":184822,
-                "desc":"正在直播： 奋晋者说"
+                "desc":"正在直播： 滔滔说法",
+                "podcaster":{
+                    "id":22308,
+                    "username":"郭韬",
+                    "weibo_id":"0"
+                }
             },
             {
                 "id":20006,
@@ -443,7 +446,7 @@
                 "title":"FM912太原综合广播",
                 "clout":3498,
                 "playcount":176493,
-                "desc":"正在直播： 912新闻早高峰"
+                "desc":"正在直播： 912乐健康"
             },
             {
                 "id":20470,
@@ -467,11 +470,10 @@
                 "title":"太原老年之声广播",
                 "clout":3447,
                 "playcount":111058,
-                "desc":"正在直播： 健康时间",
+                "desc":"正在直播： 耳听八方",
                 "podcaster":{
-                    "id":233201,
-                    "username":"杜远",
-                    "weibo_id":"0"
+                    "id":233199,
+                    "username":"高飞"
                 }
             },
             {
@@ -480,10 +482,11 @@
                 "title":"958电台山西经济广播",
                 "clout":2251,
                 "playcount":84085,
-                "desc":"正在直播： 958早知道",
+                "desc":"正在直播： 将爱情进行到底",
                 "podcaster":{
-                    "id":379788,
-                    "username":"君平"
+                    "id":21199,
+                    "username":"小颂",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -492,7 +495,7 @@
                 "title":"运城文艺广播",
                 "clout":2323,
                 "playcount":71972,
-                "desc":"正在直播： 音乐"
+                "desc":"正在直播： 1019假日放轻松"
             },
             {
                 "id":4018,
@@ -500,7 +503,7 @@
                 "title":"FM1044太原经济广播",
                 "clout":3341,
                 "playcount":68644,
-                "desc":"正在直播： 周末音乐闹铃",
+                "desc":"正在直播： 私家车飚新闻",
                 "podcaster":{
                     "id":377894,
                     "username":"全体主持人"
@@ -512,7 +515,12 @@
                 "title":"山西故事广播",
                 "clout":2064,
                 "playcount":59430,
-                "desc":"正在直播： 好歌献给你"
+                "desc":"正在直播： 一个故事一首歌",
+                "podcaster":{
+                    "id":45139,
+                    "username":"王京",
+                    "thumb":"http://pic.qtfm.cn/2020/1229/20201229041917.jpeg"
+                }
             }
         ]
     },
@@ -525,7 +533,7 @@
                 "title":"FM94.9包头综合广播",
                 "clout":4234,
                 "playcount":229676,
-                "desc":"正在直播： 包广早新闻"
+                "desc":"正在直播： 鹿城大医生 （重播）"
             },
             {
                 "id":1884,
@@ -548,7 +556,7 @@
                 "title":"包头交通广播",
                 "clout":2947,
                 "playcount":87837,
-                "desc":"正在直播： 你好Driver（精编版）"
+                "desc":"正在直播： 了不起的歌单"
             },
             {
                 "id":1896,
@@ -556,7 +564,7 @@
                 "title":"赤峰综合广播",
                 "clout":2257,
                 "playcount":70326,
-                "desc":"正在直播： 法治早班车"
+                "desc":"正在直播： 动听958"
             },
             {
                 "id":1881,
@@ -564,11 +572,7 @@
                 "title":"内蒙古新闻广播",
                 "clout":2577,
                 "playcount":64945,
-                "desc":"正在直播： 纵横118",
-                "podcaster":{
-                    "id":374330,
-                    "username":"仇龙"
-                }
+                "desc":"正在直播： 新闻播报（1小时版）"
             },
             {
                 "id":5021543,
@@ -576,7 +580,7 @@
                 "title":"呼和浩特综合广播",
                 "clout":2069,
                 "playcount":59672,
-                "desc":"正在直播： 呼和浩特新闻"
+                "desc":"正在直播： 929休闲时光"
             },
             {
                 "id":1899,
@@ -584,11 +588,10 @@
                 "title":"赤峰交通广播",
                 "clout":2197,
                 "playcount":54958,
-                "desc":"正在直播： 交广早高峰",
+                "desc":"正在直播： 交警直播室",
                 "podcaster":{
-                    "id":63380,
-                    "username":"思力",
-                    "weibo_id":"0"
+                    "id":63384,
+                    "username":"闻晓"
                 }
             },
             {
@@ -597,13 +600,11 @@
                 "title":"包头汽车音乐广播",
                 "clout":1929,
                 "playcount":49414,
-                "desc":"正在直播： 早安音乐秀（录播）",
+                "desc":"正在直播： 大牌主打歌（录播）",
                 "podcaster":{
-                    "id":14361,
-                    "username":"安昊",
-                    "thumb":"http://pic.qtfm.cn/2025/0507/20250507112224.jpeg",
-                    "weibo_name":"DJ_安昊同学",
-                    "weibo_id":"2012139013"
+                    "id":379865,
+                    "username":"鹏飞",
+                    "thumb":"http://pic.qtfm.cn/2025/0507/20250507112449.jpeg"
                 }
             },
             {
@@ -612,7 +613,7 @@
                 "title":"内蒙古评书曲艺广播",
                 "clout":2028,
                 "playcount":39711,
-                "desc":"正在直播： 健康2022"
+                "desc":"正在直播： 南腔北调秀中华（首播）"
             },
             {
                 "id":21259,
@@ -620,7 +621,12 @@
                 "title":"FM98.1包头文艺广播",
                 "clout":1694,
                 "playcount":35692,
-                "desc":"正在直播： 精品评书馆"
+                "desc":"正在直播： 981大牌主打歌",
+                "podcaster":{
+                    "id":182553,
+                    "username":"文婷",
+                    "thumb":"http://pic.qtfm.cn/2018/0402/20180402112253.jpeg"
+                }
             },
             {
                 "id":1885,
@@ -628,10 +634,13 @@
                 "title":"内蒙古经济生活广播",
                 "clout":1488,
                 "playcount":29711,
-                "desc":"正在直播： 早安新动力",
+                "desc":"正在直播： 天天315",
                 "podcaster":{
-                    "id":377937,
-                    "username":"董艺"
+                    "id":6993,
+                    "username":"方华",
+                    "thumb":"http://tp2.sinaimg.cn/2319945981/180/5671927920/1",
+                    "weibo_name":"方华主播",
+                    "weibo_id":"2319945981"
                 }
             }
         ]
@@ -645,7 +654,11 @@
                 "title":"沈阳之声",
                 "clout":10027,
                 "playcount":994146,
-                "desc":"正在直播： 1045新闻热搜"
+                "desc":"正在直播： 天天爱购",
+                "podcaster":{
+                    "id":112485,
+                    "username":"苏扬"
+                }
             },
             {
                 "id":20025,
@@ -653,13 +666,10 @@
                 "title":"辽宁交通广播FM97.5",
                 "clout":8752,
                 "playcount":602505,
-                "desc":"正在直播： 你好！路路通",
+                "desc":"正在直播： 交警直通车",
                 "podcaster":{
-                    "id":2810,
-                    "username":"三姐（爱心）",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1406056952-80x80.jpg",
-                    "weibo_name":"我是爱心",
-                    "weibo_id":"1406056952"
+                    "id":380862,
+                    "username":"陶陶"
                 }
             },
             {
@@ -668,14 +678,7 @@
                 "title":"大连体育广播",
                 "clout":6058,
                 "playcount":520192,
-                "desc":"正在直播： 早安周末",
-                "podcaster":{
-                    "id":4568,
-                    "username":"王敏",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1227552662-80x80.jpg",
-                    "weibo_name":"DJ王敏",
-                    "weibo_id":"1227552662"
-                }
+                "desc":"正在直播： 健康之光"
             },
             {
                 "id":1099,
@@ -683,11 +686,11 @@
                 "title":"沈阳都市广播",
                 "clout":6691,
                 "playcount":443879,
-                "desc":"正在直播： 921小妹说新闻",
+                "desc":"正在直播： 921全民欢唱第一榜",
                 "podcaster":{
-                    "id":380934,
-                    "username":"道道",
-                    "thumb":"http://pic.qtfm.cn/2024/0305/20240305013146.jpeg"
+                    "id":380943,
+                    "username":"高嵩",
+                    "thumb":"http://pic.qtfm.cn/2024/0305/20240305010126.jpeg"
                 }
             },
             {
@@ -696,10 +699,10 @@
                 "title":"沈阳交通广播FM98.6",
                 "clout":4875,
                 "playcount":248750,
-                "desc":"正在直播： 沈阳早高峰",
+                "desc":"正在直播： 家装听我说",
                 "podcaster":{
-                    "id":74553,
-                    "username":"晓霖"
+                    "id":375928,
+                    "username":"大白"
                 }
             },
             {
@@ -708,10 +711,10 @@
                 "title":"沈阳生活广播",
                 "clout":3985,
                 "playcount":203397,
-                "desc":"正在直播： 国有大医院专家讲堂",
+                "desc":"正在直播： 1034旅行团",
                 "podcaster":{
-                    "id":27341,
-                    "username":"刘晔"
+                    "id":27303,
+                    "username":"肖夏"
                 }
             },
             {
@@ -720,7 +723,7 @@
                 "title":"抚顺交通广播",
                 "clout":3865,
                 "playcount":199069,
-                "desc":"正在直播： 假日广播"
+                "desc":"正在直播： 假日连连看"
             },
             {
                 "id":5022018,
@@ -728,10 +731,10 @@
                 "title":"辽宁资讯广播fm90.6大连分台",
                 "clout":3611,
                 "playcount":181918,
-                "desc":"正在直播： 华说一周",
+                "desc":"正在直播： 婧爱讲理",
                 "podcaster":{
-                    "id":63114,
-                    "username":"华龙"
+                    "id":379017,
+                    "username":"张婧"
                 }
             },
             {
@@ -740,10 +743,10 @@
                 "title":"辽阳交通文艺广播",
                 "clout":2850,
                 "playcount":102801,
-                "desc":"正在直播： 一路有你（周末版）",
+                "desc":"正在直播： 嗨放潮生活",
                 "podcaster":{
-                    "id":22900,
-                    "username":"一菲"
+                    "id":380803,
+                    "username":"筱寒"
                 }
             },
             {
@@ -775,10 +778,10 @@
                 "title":"丹东综合广播",
                 "clout":2296,
                 "playcount":84403,
-                "desc":"正在直播： 政风行风热线",
+                "desc":"正在直播： 1036 城市新生活",
                 "podcaster":{
-                    "id":83602,
-                    "username":"徐 航"
+                    "id":83605,
+                    "username":"王 菁"
                 }
             }
         ]
@@ -792,12 +795,12 @@
                 "title":"长春交通之声",
                 "clout":9472,
                 "playcount":774417,
-                "desc":"正在直播： 968新闻早高峰",
+                "desc":"正在直播： 高震与秦鸽",
                 "podcaster":{
-                    "id":6307,
-                    "username":"王岩",
-                    "thumb":"http://pic.qtfm.cn/2018/0402/20180402095440.jpeg",
-                    "weibo_id":"1676977245"
+                    "id":148266,
+                    "username":"高震",
+                    "weibo_name":"主持人高震",
+                    "weibo_id":"2147483647"
                 }
             },
             {
@@ -806,11 +809,13 @@
                 "title":"吉林新闻综合广播",
                 "clout":7798,
                 "playcount":623009,
-                "desc":"正在直播： 738早新闻",
+                "desc":"正在直播： 社区好声音",
                 "podcaster":{
-                    "id":66321,
-                    "username":"林迪、李月、高晗、刘闯、方媛",
-                    "weibo_id":"0"
+                    "id":40996,
+                    "username":"一鑫",
+                    "thumb":"http://tp4.sinaimg.cn/1552675843/180/5727442190/1",
+                    "weibo_name":"孫孫孫孫一鑫",
+                    "weibo_id":"1552675843"
                 }
             },
             {
@@ -819,10 +824,10 @@
                 "title":"吉林交通广播",
                 "clout":6470,
                 "playcount":433558,
-                "desc":"正在直播： 1038幸福出发",
+                "desc":"正在直播： 1038领唱团",
                 "podcaster":{
-                    "id":25143,
-                    "username":"张红"
+                    "id":378827,
+                    "username":"领唱团主播群"
                 }
             },
             {
@@ -831,12 +836,10 @@
                 "title":"吉林资讯广播",
                 "clout":4509,
                 "playcount":384699,
-                "desc":"正在直播： 诗展侃历史",
+                "desc":"正在直播： 杨生音响时间",
                 "podcaster":{
-                    "id":27846,
-                    "username":"诗展",
-                    "weibo_name":"诗展",
-                    "weibo_id":"1215906605"
+                    "id":361854,
+                    "username":"杨生"
                 }
             },
             {
@@ -845,7 +848,7 @@
                 "title":"长春广播电视台 FM88.0",
                 "clout":3362,
                 "playcount":128247,
-                "desc":"正在直播： 你好地球人",
+                "desc":"正在直播： 周末乐动听",
                 "podcaster":{
                     "id":376120,
                     "username":"MUSIC DJ"
@@ -857,11 +860,7 @@
                 "title":"吉林市交通台 FM939",
                 "clout":2998,
                 "playcount":110943,
-                "desc":"正在直播： 939早班车",
-                "podcaster":{
-                    "id":380003,
-                    "username":"徐琨、媛媛"
-                }
+                "desc":"正在直播： 吉祥团购"
             },
             {
                 "id":1823,
@@ -869,10 +868,10 @@
                 "title":"吉林市广播电视台经济广播",
                 "clout":2665,
                 "playcount":94841,
-                "desc":"正在直播： 江城早高峰",
+                "desc":"正在直播： 声音-创城热线",
                 "podcaster":{
-                    "id":188895,
-                    "username":"冰冰"
+                    "id":255292,
+                    "username":"姜程"
                 }
             },
             {
@@ -881,7 +880,14 @@
                 "title":"延边新闻广播",
                 "clout":2556,
                 "playcount":76544,
-                "desc":"正在直播： 焦点访谈"
+                "desc":"正在直播： 七彩时光",
+                "podcaster":{
+                    "id":29579,
+                    "username":"明玉",
+                    "thumb":"http://tp2.sinaimg.cn/1759327825/180/22822860102/0",
+                    "weibo_name":"马明玉",
+                    "weibo_id":"1759327825"
+                }
             },
             {
                 "id":20487,
@@ -889,10 +895,11 @@
                 "title":"吉林旅游广播",
                 "clout":1981,
                 "playcount":45577,
-                "desc":"正在直播： 长春好房团",
+                "desc":"正在直播： 旅行设计师",
                 "podcaster":{
-                    "id":381164,
-                    "username":"老范"
+                    "id":17358,
+                    "username":"大文",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -901,10 +908,13 @@
                 "title":"吉林音乐广播",
                 "clout":1910,
                 "playcount":41595,
-                "desc":"正在直播： 就爱听音乐",
+                "desc":"正在直播： 时尚私享家",
                 "podcaster":{
-                    "id":35586,
-                    "username":"DJ"
+                    "id":2409,
+                    "username":"DJ 星果",
+                    "thumb":"http://tp3.sinaimg.cn/2002481470/180/5728818984/0",
+                    "weibo_name":"DJ星果",
+                    "weibo_id":"2002481470"
                 }
             },
             {
@@ -913,7 +923,11 @@
                 "title":"白山交通广播FM950",
                 "clout":1431,
                 "playcount":33685,
-                "desc":"正在直播： 周末特别节目"
+                "desc":"正在直播： 快乐过周末",
+                "podcaster":{
+                    "id":39979,
+                    "username":"泓霖"
+                }
             },
             {
                 "id":4889,
@@ -921,7 +935,7 @@
                 "title":"延边交通文艺广播",
                 "clout":1565,
                 "playcount":32719,
-                "desc":"正在直播： 随机歌单"
+                "desc":"正在直播： 评书开讲"
             }
         ]
     },
@@ -934,7 +948,12 @@
                 "title":"黑龙江交通广播",
                 "clout":11784,
                 "playcount":928461,
-                "desc":"正在直播： 我为企业来助力"
+                "desc":"正在直播： 汽车时代",
+                "podcaster":{
+                    "id":367887,
+                    "username":"肖鹏",
+                    "thumb":"http://pic.qtfm.cn/2021/1117/20211117122022.jpeg"
+                }
             },
             {
                 "id":20083,
@@ -942,10 +961,10 @@
                 "title":"哈尔滨文艺广播",
                 "clout":9288,
                 "playcount":858360,
-                "desc":"正在直播： 新闻007",
+                "desc":"正在直播： 老年学堂",
                 "podcaster":{
-                    "id":41231,
-                    "username":"珂妮"
+                    "id":41235,
+                    "username":"于凡"
                 }
             },
             {
@@ -954,10 +973,10 @@
                 "title":"哈尔滨音乐广播",
                 "clout":8046,
                 "playcount":599515,
-                "desc":"正在直播： 音乐深呼吸",
+                "desc":"正在直播： 音乐享自由",
                 "podcaster":{
-                    "id":77900,
-                    "username":"姝曼"
+                    "id":77918,
+                    "username":"卢堃"
                 }
             },
             {
@@ -966,12 +985,10 @@
                 "title":"龙广都市女性台",
                 "clout":5828,
                 "playcount":360571,
-                "desc":"正在直播： 我爱我家",
+                "desc":"正在直播： 母爱好时光",
                 "podcaster":{
-                    "id":16364,
-                    "username":"韩涛",
-                    "weibo_name":"龙广韩涛",
-                    "weibo_id":"1426970800"
+                    "id":16365,
+                    "username":"凯淇"
                 }
             },
             {
@@ -980,10 +997,11 @@
                 "title":"哈尔滨交通广播",
                 "clout":4580,
                 "playcount":229097,
-                "desc":"正在直播： 交广早高峰",
+                "desc":"正在直播： 爱车总动员",
                 "podcaster":{
-                    "id":380624,
-                    "username":"张林 | 友谅"
+                    "id":377596,
+                    "username":"张璐",
+                    "thumb":"http://pic.qtfm.cn/2021/0625/20210625012712.png"
                 }
             },
             {
@@ -992,14 +1010,7 @@
                 "title":"龙广新闻台",
                 "clout":4040,
                 "playcount":178094,
-                "desc":"正在直播： 早餐前后",
-                "podcaster":{
-                    "id":4104,
-                    "username":"心聆",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1676331254-80x80.jpg",
-                    "weibo_name":"龙广主播心聆",
-                    "weibo_id":"1676331254"
-                }
+                "desc":"正在直播： 龙江政务时间"
             },
             {
                 "id":20077,
@@ -1007,7 +1018,11 @@
                 "title":"哈尔滨广播电视台综合广播",
                 "clout":3181,
                 "playcount":105893,
-                "desc":"正在直播： 一周新闻盘点"
+                "desc":"正在直播： 消费新主张",
+                "podcaster":{
+                    "id":382112,
+                    "username":"海蒂、文帅"
+                }
             },
             {
                 "id":4970,
@@ -1023,10 +1038,12 @@
                 "title":"黑龙江老年少儿广播",
                 "clout":2300,
                 "playcount":72105,
-                "desc":"正在直播： 快乐出发",
+                "desc":"正在直播： 时光点唱机",
                 "podcaster":{
-                    "id":363721,
-                    "username":"怀鑫"
+                    "id":66425,
+                    "username":"卉卉",
+                    "thumb":"http://pic.qtfm.cn/2017/0815/20170815083407.jpeg",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -1035,10 +1052,10 @@
                 "title":"黑龙江高校广播",
                 "clout":2353,
                 "playcount":58990,
-                "desc":"正在直播： PS早安秀",
+                "desc":"正在直播： 专题2",
                 "podcaster":{
-                    "id":221630,
-                    "username":"小来"
+                    "id":221631,
+                    "username":"录播"
                 }
             },
             {
@@ -1055,7 +1072,7 @@
                 "title":"牡丹江综合广播",
                 "clout":1782,
                 "playcount":44823,
-                "desc":"正在直播： 有钱好好花（直播）"
+                "desc":"正在直播： 会员部落（周一至周五直播 周六日录播）"
             }
         ]
     },
@@ -1068,7 +1085,7 @@
                 "title":"江苏新闻广播",
                 "clout":13395,
                 "playcount":2111265,
-                "desc":"正在直播： 新闻早高峰"
+                "desc":"正在直播： 政风热线"
             },
             {
                 "id":4938,
@@ -1084,7 +1101,11 @@
                 "title":"江苏交通广播",
                 "clout":11870,
                 "playcount":840140,
-                "desc":"正在直播： 一路好心情"
+                "desc":"正在直播： 交通在线",
+                "podcaster":{
+                    "id":381348,
+                    "username":"于洋"
+                }
             },
             {
                 "id":2803,
@@ -1112,14 +1133,7 @@
                 "title":"苏州新闻广播",
                 "clout":4824,
                 "playcount":259697,
-                "desc":"正在直播： 苏州新闻",
-                "podcaster":{
-                    "id":2594,
-                    "username":"李京",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1770757147-80x80.jpg",
-                    "weibo_name":"李京-豆芽",
-                    "weibo_id":"1770757147"
-                }
+                "desc":"正在直播： 天天健康"
             },
             {
                 "id":4963,
@@ -1127,7 +1141,11 @@
                 "title":"南京音乐广播",
                 "clout":4943,
                 "playcount":196120,
-                "desc":"正在直播： 城市乐动听"
+                "desc":"正在直播： 磁带时光",
+                "podcaster":{
+                    "id":44214,
+                    "username":"许嵘"
+                }
             },
             {
                 "id":2777,
@@ -1135,7 +1153,7 @@
                 "title":"FM93.7无锡新闻综合广播",
                 "clout":3775,
                 "playcount":151004,
-                "desc":"正在直播： 无锡早新闻"
+                "desc":"正在直播： 郑韩读报周末版"
             },
             {
                 "id":4922,
@@ -1143,7 +1161,7 @@
                 "title":"徐州新闻综合广播",
                 "clout":2768,
                 "playcount":118769,
-                "desc":"正在直播： 93早新闻"
+                "desc":"正在直播： 健康之路"
             },
             {
                 "id":2782,
@@ -1151,7 +1169,7 @@
                 "title":"无锡梁溪之声",
                 "clout":2817,
                 "playcount":113271,
-                "desc":"正在直播： 926大放送"
+                "desc":"正在直播： 法律讲堂"
             },
             {
                 "id":2779,
@@ -1159,7 +1177,7 @@
                 "title":"无锡音乐广播",
                 "clout":3113,
                 "playcount":111401,
-                "desc":"正在直播： 假日音乐派"
+                "desc":"正在直播： 七彩金曲原创榜"
             },
             {
                 "id":4936,
@@ -1167,7 +1185,7 @@
                 "title":"江苏音乐广播PlayFM897",
                 "clout":3842,
                 "playcount":110156,
-                "desc":"正在直播： 音乐Holiday"
+                "desc":"正在直播： 今天我当班"
             }
         ]
     },
@@ -1188,7 +1206,14 @@
                 "title":"杭州交通91.8电台",
                 "clout":10322,
                 "playcount":761508,
-                "desc":"正在直播： 天天听世界"
+                "desc":"正在直播： 一路领先",
+                "podcaster":{
+                    "id":12409,
+                    "username":"小仙",
+                    "thumb":"http://pic.qtfm.cn/2021/1103/20211103044530.png",
+                    "weibo_name":"918小仙儿",
+                    "weibo_id":"1885484761"
+                }
             },
             {
                 "id":4518,
@@ -1196,13 +1221,13 @@
                 "title":"浙江之声",
                 "clout":9814,
                 "playcount":635088,
-                "desc":"正在直播： 浙广早新闻",
+                "desc":"正在直播： 动力周末",
                 "podcaster":{
-                    "id":11982,
-                    "username":"方亮",
-                    "thumb":"http://tp3.sinaimg.cn/3552969834/180/40039700915/1",
-                    "weibo_name":"浙江之声方亮",
-                    "weibo_id":"3552969834"
+                    "id":12000,
+                    "username":"浙江之声",
+                    "thumb":"http://tp2.sinaimg.cn/1718259005/180/40021943359/1",
+                    "weibo_name":"浙江之声",
+                    "weibo_id":"1718259005"
                 }
             },
             {
@@ -1211,11 +1236,7 @@
                 "title":"浙江FM99.6",
                 "clout":6387,
                 "playcount":482047,
-                "desc":"正在直播： 激活早高峰",
-                "podcaster":{
-                    "id":33323,
-                    "username":"东方"
-                }
+                "desc":"正在直播： 周末动起来"
             },
             {
                 "id":1163,
@@ -1239,10 +1260,10 @@
                 "title":"浙江经济广播",
                 "clout":4724,
                 "playcount":270462,
-                "desc":"正在直播： 财富中国",
+                "desc":"正在直播： 股动天下",
                 "podcaster":{
-                    "id":31975,
-                    "username":"陈韩、大牛"
+                    "id":31976,
+                    "username":"庄严、正中"
                 }
             },
             {
@@ -1259,7 +1280,13 @@
                 "title":"FM103.5湖州经济广播",
                 "clout":3171,
                 "playcount":192894,
-                "desc":"正在直播： 节奏开道"
+                "desc":"正在直播： 小张交通热线（重播）",
+                "podcaster":{
+                    "id":15082,
+                    "username":"小张",
+                    "thumb":"http://pic.qtfm.cn/2016/0905/20160905032126.jpeg",
+                    "weibo_id":"0"
+                }
             },
             {
                 "id":15318146,
@@ -1267,11 +1294,10 @@
                 "title":"杭州FM90.7",
                 "clout":2876,
                 "playcount":89495,
-                "desc":"正在直播： 音乐零起点",
+                "desc":"正在直播： Z Weekend 自在周末",
                 "podcaster":{
-                    "id":71193,
-                    "username":"Z907",
-                    "weibo_id":"0"
+                    "id":71189,
+                    "username":"萱萱"
                 }
             },
             {
@@ -1280,10 +1306,10 @@
                 "title":"嘉兴综合广播",
                 "clout":2309,
                 "playcount":78834,
-                "desc":"正在直播： 阿德对你讲",
+                "desc":"正在直播： 城市随身听周末版",
                 "podcaster":{
-                    "id":12552,
-                    "username":"阿德"
+                    "id":376717,
+                    "username":"子璇"
                 }
             },
             {
@@ -1292,11 +1318,7 @@
                 "title":"宁波新闻综合广播",
                 "clout":2492,
                 "playcount":76900,
-                "desc":"正在直播： 宁广早新闻",
-                "podcaster":{
-                    "id":42002,
-                    "username":"李侃"
-                }
+                "desc":"正在直播： 初心悦听（重播）"
             }
         ]
     },
@@ -1309,7 +1331,7 @@
                 "title":"安徽交通广播",
                 "clout":7895,
                 "playcount":230713,
-                "desc":"正在直播： 随车听音乐"
+                "desc":"正在直播： 听说很好"
             },
             {
                 "id":4919,
@@ -1317,7 +1339,7 @@
                 "title":"安徽综合广播",
                 "clout":5162,
                 "playcount":196694,
-                "desc":"正在直播： 新闻早高峰"
+                "desc":"正在直播： 健康生活家"
             },
             {
                 "id":5022400,
@@ -1348,13 +1370,7 @@
                 "title":"安庆综合广播",
                 "clout":2837,
                 "playcount":101296,
-                "desc":"正在直播： 1584政风行风热线",
-                "podcaster":{
-                    "id":104255,
-                    "username":"安心",
-                    "weibo_name":"FM903安庆综合广播",
-                    "weibo_id":"2147483647"
-                }
+                "desc":"正在直播： 小亲的暖心歌"
             },
             {
                 "id":1948,
@@ -1362,7 +1378,11 @@
                 "title":"安徽生活广播",
                 "clout":3100,
                 "playcount":71207,
-                "desc":"正在直播： 环球故事会"
+                "desc":"正在直播： 那些歌儿",
+                "podcaster":{
+                    "id":36153,
+                    "username":"鲍鲍"
+                }
             },
             {
                 "id":5029,
@@ -1370,13 +1390,13 @@
                 "title":"芜湖综合广播",
                 "clout":2286,
                 "playcount":57217,
-                "desc":"正在直播： 天天热线",
+                "desc":"正在直播： 878老友荟",
                 "podcaster":{
-                    "id":5154,
-                    "username":"志成",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/3036885691-80x80.jpg",
-                    "weibo_name":"电台志成",
-                    "weibo_id":"3036885691"
+                    "id":5162,
+                    "username":"奇乐",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/3175854652-80x80.jpg",
+                    "weibo_name":"DJ奇乐",
+                    "weibo_id":"2147483647"
                 }
             },
             {
@@ -1385,7 +1405,7 @@
                 "title":"芜湖交通经济广播",
                 "clout":2344,
                 "playcount":55037,
-                "desc":"正在直播： 精编音乐"
+                "desc":"正在直播： 绝绝子歌单"
             },
             {
                 "id":20211575,
@@ -1401,11 +1421,7 @@
                 "title":"安徽农村广播",
                 "clout":1750,
                 "playcount":31107,
-                "desc":"正在直播： 新鲜早七点",
-                "podcaster":{
-                    "id":30090,
-                    "username":"邓岳"
-                }
+                "desc":"正在直播： 专题节目"
             },
             {
                 "id":1951,
@@ -1413,7 +1429,7 @@
                 "title":"安徽老年广播",
                 "clout":1727,
                 "playcount":29076,
-                "desc":"正在直播： 经典老歌"
+                "desc":"正在直播： 小说评书大放送"
             },
             {
                 "id":1968,
@@ -1421,7 +1437,7 @@
                 "title":"黄山新闻综合广播",
                 "clout":1257,
                 "playcount":26341,
-                "desc":"正在直播： 市民热线"
+                "desc":"正在直播： 音乐一线牵"
             }
         ]
     },
@@ -1434,7 +1450,7 @@
                 "title":"福建新闻广播",
                 "clout":7486,
                 "playcount":392163,
-                "desc":"正在直播： 声动早高峰"
+                "desc":"正在直播： 尽说大实话"
             },
             {
                 "id":15318189,
@@ -1442,7 +1458,7 @@
                 "title":"泉州904交通之声",
                 "clout":5207,
                 "playcount":296553,
-                "desc":"正在直播： 音乐第七天"
+                "desc":"正在直播： DJ私房歌"
             },
             {
                 "id":1739,
@@ -1450,7 +1466,7 @@
                 "title":"厦门音乐广播",
                 "clout":5633,
                 "playcount":185955,
-                "desc":"正在直播： 909音乐天空"
+                "desc":"正在直播： 我爱古诗词"
             },
             {
                 "id":15318346,
@@ -1458,7 +1474,7 @@
                 "title":"泉州广播电视台889新闻综合广播",
                 "clout":3161,
                 "playcount":120496,
-                "desc":"正在直播： 泉州新闻联播（重播）"
+                "desc":"正在直播： 歌曲欣赏"
             },
             {
                 "id":1737,
@@ -1466,11 +1482,7 @@
                 "title":"厦门综合广播",
                 "clout":3031,
                 "playcount":107413,
-                "desc":"正在直播： 今晨快报&银发一族",
-                "podcaster":{
-                    "id":270361,
-                    "username":"小易"
-                }
+                "desc":"正在直播： 边走边听"
             },
             {
                 "id":1738,
@@ -1478,10 +1490,10 @@
                 "title":"厦门交通旅游广播",
                 "clout":2922,
                 "playcount":96816,
-                "desc":"正在直播： 早班直通车",
+                "desc":"正在直播： 品味经典",
                 "podcaster":{
-                    "id":48866,
-                    "username":"万辉"
+                    "id":48870,
+                    "username":"崔丹"
                 }
             },
             {
@@ -1490,7 +1502,7 @@
                 "title":"福建987私家车广播",
                 "clout":3026,
                 "playcount":76463,
-                "desc":"正在直播： 音乐无人驾驶",
+                "desc":"正在直播： 快乐车生活",
                 "podcaster":{
                     "id":26270,
                     "username":"987私家车广播",
@@ -1513,14 +1525,7 @@
                 "title":"泉州刺桐之声",
                 "clout":2343,
                 "playcount":59036,
-                "desc":"正在直播： Just 泉州",
-                "podcaster":{
-                    "id":26395,
-                    "username":"阳阿",
-                    "thumb":"http://tp3.sinaimg.cn/2293966062/180/5705109174/1",
-                    "weibo_name":"1059阳啊",
-                    "weibo_id":"2293966062"
-                }
+                "desc":"正在直播： 咱是一家人"
             },
             {
                 "id":1740,
@@ -1528,7 +1533,11 @@
                 "title":"厦门闽南之声广播",
                 "clout":1864,
                 "playcount":37108,
-                "desc":"正在直播： 闽南语金曲榜"
+                "desc":"正在直播： 第八快乐市场",
+                "podcaster":{
+                    "id":14080,
+                    "username":"叶楹"
+                }
             },
             {
                 "id":4846,
@@ -1550,7 +1559,7 @@
                 "title":"福建交通广播",
                 "clout":1978,
                 "playcount":29702,
-                "desc":"正在直播： 治愈歌单"
+                "desc":"正在直播： 周末特来电"
             }
         ]
     },
@@ -1562,8 +1571,7 @@
                 "imgUrl":"//pic.qtfm.cn/2011/0926/20110926094712575.jpg",
                 "title":"江西新闻广播",
                 "clout":4498,
-                "playcount":95415,
-                "desc":"正在直播： 新闻大链接（上午版）"
+                "playcount":95415
             },
             {
                 "id":1802,
@@ -1571,10 +1579,12 @@
                 "title":"江西音乐广播",
                 "clout":4959,
                 "playcount":92497,
-                "desc":"正在直播： 了不起的早晨",
+                "desc":"正在直播： 一起音乐吧",
                 "podcaster":{
-                    "id":378547,
-                    "username":"夏天"
+                    "id":45881,
+                    "username":"洪恺",
+                    "weibo_name":"DJ洪恺",
+                    "weibo_id":"2147483647"
                 }
             },
             {
@@ -1646,7 +1656,11 @@
                 "title":"南康交通广播",
                 "clout":1116,
                 "playcount":9990,
-                "desc":"正在直播： 南康新闻"
+                "desc":"正在直播： 行走的耳朵",
+                "podcaster":{
+                    "id":379749,
+                    "username":"青提"
+                }
             },
             {
                 "id":5022036,
@@ -1667,10 +1681,10 @@
                 "title":"江西民生广播",
                 "clout":1134,
                 "playcount":7124,
-                "desc":"正在直播： 育儿课堂",
+                "desc":"正在直播： 生活1+1",
                 "podcaster":{
-                    "id":26469,
-                    "username":"舒展"
+                    "id":32554,
+                    "username":"佳琦"
                 }
             },
             {
@@ -1692,10 +1706,13 @@
                 "title":"济南新闻广播",
                 "clout":12069,
                 "playcount":1087792,
-                "desc":"正在直播： 新闻六十分",
+                "desc":"正在直播： 城市爱生活",
                 "podcaster":{
-                    "id":13946,
-                    "username":"齐方"
+                    "id":333,
+                    "username":"小贝",
+                    "thumb":"http://pic.qtfm.cn/2017/0103/20170103024610.jpeg",
+                    "weibo_name":"DJ小贝",
+                    "weibo_id":"1714432911"
                 }
             },
             {
@@ -1704,12 +1721,10 @@
                 "title":"济南经济广播",
                 "clout":8330,
                 "playcount":619506,
-                "desc":"正在直播： 经广新闻网 846传真",
+                "desc":"正在直播： 非想非非想",
                 "podcaster":{
-                    "id":380205,
-                    "username":"周硕",
-                    "weibo_name":"周硕啦啦啦",
-                    "weibo_id":"1270069885"
+                    "id":380211,
+                    "username":"翠儿"
                 }
             },
             {
@@ -1718,13 +1733,10 @@
                 "title":"青岛新闻广播",
                 "clout":6728,
                 "playcount":459014,
-                "desc":"正在直播： 1377早新闻",
+                "desc":"正在直播： 了不起的创业者",
                 "podcaster":{
-                    "id":1341,
-                    "username":"王奔",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1969819973-80x80.jpg",
-                    "weibo_name":"青岛新闻广播王奔",
-                    "weibo_id":"1969819973"
+                    "id":377546,
+                    "username":"召娜"
                 }
             },
             {
@@ -1733,7 +1745,7 @@
                 "title":"山东广播电视台综合广播",
                 "clout":6941,
                 "playcount":364491,
-                "desc":"正在直播： 山东新闻"
+                "desc":"正在直播： 周末说法"
             },
             {
                 "id":1676,
@@ -1741,14 +1753,7 @@
                 "title":"青岛交通广播",
                 "clout":5296,
                 "playcount":332117,
-                "desc":"正在直播： 动感青岛",
-                "podcaster":{
-                    "id":1327,
-                    "username":"张田",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/2075151481-80x80.jpg",
-                    "weibo_name":"青岛交通广播张田",
-                    "weibo_id":"2075151481"
-                }
+                "desc":"正在直播： 交通热线"
             },
             {
                 "id":1669,
@@ -1764,7 +1769,7 @@
                 "title":"济南故事广播",
                 "clout":5160,
                 "playcount":282138,
-                "desc":"正在直播： 1043早高峰"
+                "desc":"正在直播： 纪实文学"
             },
             {
                 "id":3995,
@@ -1772,7 +1777,7 @@
                 "title":"都市101经济广播",
                 "clout":4620,
                 "playcount":279255,
-                "desc":"正在直播： 行风热线"
+                "desc":"正在直播： 赢商"
             },
             {
                 "id":20236,
@@ -1780,7 +1785,7 @@
                 "title":"山东经济广播",
                 "clout":4285,
                 "playcount":201141,
-                "desc":"正在直播： 一路芳华"
+                "desc":"正在直播： 健康节目"
             },
             {
                 "id":5022537,
@@ -1788,10 +1793,10 @@
                 "title":"青岛广播爱车940",
                 "clout":3350,
                 "playcount":186865,
-                "desc":"正在直播： 音乐相伴",
+                "desc":"正在直播： 边走边唱",
                 "podcaster":{
-                    "id":44422,
-                    "username":"小林"
+                    "id":377883,
+                    "username":"瑞莲"
                 }
             },
             {
@@ -1825,7 +1830,7 @@
                 "title":"怀旧好声音",
                 "clout":12062,
                 "playcount":670862,
-                "desc":"正在直播： 怀旧好声音"
+                "desc":"正在直播： 音乐"
             },
             {
                 "id":1220,
@@ -1833,7 +1838,7 @@
                 "title":"郑州新闻广播",
                 "clout":9903,
                 "playcount":620015,
-                "desc":"正在直播： 百姓热线"
+                "desc":"正在直播： 988听众之家"
             },
             {
                 "id":1213,
@@ -1841,11 +1846,7 @@
                 "title":"1042南阳新闻广播",
                 "clout":4518,
                 "playcount":225596,
-                "desc":"正在直播： 1042 新闻早高峰·资讯第一声",
-                "podcaster":{
-                    "id":380275,
-                    "username":"王皓"
-                }
+                "desc":"正在直播： 边走边听"
             },
             {
                 "id":1227,
@@ -1853,7 +1854,11 @@
                 "title":"洛阳交通广播",
                 "clout":3828,
                 "playcount":146554,
-                "desc":"正在直播： 经典回旋"
+                "desc":"正在直播： 动感方向盘（周末版）",
+                "podcaster":{
+                    "id":85299,
+                    "username":"闫东"
+                }
             },
             {
                 "id":1211,
@@ -1861,10 +1866,10 @@
                 "title":"郑州交通广播",
                 "clout":5042,
                 "playcount":137170,
-                "desc":"正在直播： 交通互联网",
+                "desc":"正在直播： 金色方向盘",
                 "podcaster":{
-                    "id":257024,
-                    "username":"林夕"
+                    "id":257029,
+                    "username":"岳涛"
                 }
             },
             {
@@ -1873,7 +1878,7 @@
                 "title":"悦动936南阳城市广播",
                 "clout":2938,
                 "playcount":132635,
-                "desc":"正在直播： 新闻早高峰"
+                "desc":"正在直播： 边走边听"
             },
             {
                 "id":1221,
@@ -1881,11 +1886,11 @@
                 "title":"郑州经济广播",
                 "clout":3230,
                 "playcount":98769,
-                "desc":"正在直播： 931早餐可乐",
+                "desc":"正在直播： 931听游天下",
                 "podcaster":{
-                    "id":81852,
-                    "username":"方婷",
-                    "thumb":"http://pic.qtfm.cn/2019/0102/20190102103611.jpeg",
+                    "id":81864,
+                    "username":"嘉璐",
+                    "thumb":"http://pic.qtfm.cn/2019/0102/20190102103313.jpeg",
                     "weibo_id":"0"
                 }
             },
@@ -1895,7 +1900,11 @@
                 "title":"洛阳音乐广播",
                 "clout":3264,
                 "playcount":60520,
-                "desc":"正在直播： 只听音乐不说话"
+                "desc":"正在直播： COLOR MUSIC（周末版）",
+                "podcaster":{
+                    "id":64652,
+                    "username":"一凡"
+                }
             },
             {
                 "id":2138,
@@ -1919,11 +1928,11 @@
                 "title":"周口综合广播",
                 "clout":1825,
                 "playcount":42203,
-                "desc":"正在直播： 监督热线",
+                "desc":"正在直播： 960老友记",
                 "podcaster":{
-                    "id":382093,
-                    "username":"钊权",
-                    "thumb":"http://pic.qtfm.cn/2025/0423/20250423082724.jpeg"
+                    "id":380104,
+                    "username":"橘子",
+                    "thumb":"http://pic.qtfm.cn/2023/1102/20231102042803.jpeg"
                 }
             },
             {
@@ -1932,7 +1941,12 @@
                 "title":"洛阳综合广播",
                 "clout":2027,
                 "playcount":40739,
-                "desc":"正在直播： 资讯碎片"
+                "desc":"正在直播： 国际速览（重播）",
+                "podcaster":{
+                    "id":378917,
+                    "username":"顾佳",
+                    "thumb":"http://pic.qtfm.cn/2022/0329/20220329103944.jpeg"
+                }
             }
         ]
     },
@@ -1945,7 +1959,7 @@
                 "title":"湖北之声",
                 "clout":11641,
                 "playcount":673881,
-                "desc":"正在直播： 焦点时刻"
+                "desc":"正在直播： 长江新动力"
             },
             {
                 "id":20200,
@@ -1953,7 +1967,7 @@
                 "title":"武汉经济广播",
                 "clout":5211,
                 "playcount":188645,
-                "desc":"正在直播： 财富早点到",
+                "desc":"正在直播： 财富慢生活",
                 "podcaster":{
                     "id":17075,
                     "username":"吴越"
@@ -1965,10 +1979,10 @@
                 "title":"楚天交通广播",
                 "clout":5194,
                 "playcount":181483,
-                "desc":"正在直播： 事事关心",
+                "desc":"正在直播： 音乐麦田",
                 "podcaster":{
-                    "id":378518,
-                    "username":"孙雯"
+                    "id":378527,
+                    "username":"刘江"
                 }
             },
             {
@@ -1977,7 +1991,11 @@
                 "title":"襄阳交通音乐广播",
                 "clout":3578,
                 "playcount":138572,
-                "desc":"正在直播： 那些喜欢的音乐"
+                "desc":"正在直播： 一路欢歌",
+                "podcaster":{
+                    "id":374955,
+                    "username":"若男"
+                }
             },
             {
                 "id":1296,
@@ -1993,7 +2011,7 @@
                 "title":"武汉经典音乐广播",
                 "clout":3681,
                 "playcount":99679,
-                "desc":"正在直播： 世纪回音"
+                "desc":"正在直播： 岁月恋歌"
             },
             {
                 "id":20198,
@@ -2001,13 +2019,13 @@
                 "title":"武汉新闻广播",
                 "clout":3374,
                 "playcount":87749,
-                "desc":"正在直播： 武汉之声",
+                "desc":"正在直播： 创业武汉",
                 "podcaster":{
-                    "id":17058,
-                    "username":"吕萌",
-                    "thumb":"http://tp3.sinaimg.cn/1412322490/180/40055522209/1",
-                    "weibo_name":"主播吕萌",
-                    "weibo_id":"1412322490"
+                    "id":24163,
+                    "username":"雨潇",
+                    "thumb":"http://tp4.sinaimg.cn/2269160307/180/5619015973/0",
+                    "weibo_name":"主播雨潇",
+                    "weibo_id":"2269160307"
                 }
             },
             {
@@ -2024,14 +2042,7 @@
                 "title":"襄阳之声",
                 "clout":2015,
                 "playcount":58475,
-                "desc":"正在直播： 新闻早高峰",
-                "podcaster":{
-                    "id":3672,
-                    "username":"阳光",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1225899402-80x80.jpg",
-                    "weibo_name":"襄阳新闻广播阳光",
-                    "weibo_id":"2252052700"
-                }
+                "desc":"正在直播： 传奇书场"
             },
             {
                 "id":4671,
@@ -2039,7 +2050,11 @@
                 "title":"湖北城市之声",
                 "clout":2140,
                 "playcount":44528,
-                "desc":"正在直播： 带上音乐去旅行"
+                "desc":"正在直播： 动听周末",
+                "podcaster":{
+                    "id":376570,
+                    "username":"欣然"
+                }
             },
             {
                 "id":3964,
@@ -2047,7 +2062,7 @@
                 "title":"黄石交通广播",
                 "clout":1510,
                 "playcount":30974,
-                "desc":"正在直播： 交通进行时（早间版）"
+                "desc":"正在直播： 1033你我他"
             },
             {
                 "id":4665,
@@ -2055,7 +2070,7 @@
                 "title":"武汉交通广播",
                 "clout":1691,
                 "playcount":25843,
-                "desc":"正在直播： 你好 江城",
+                "desc":"正在直播： 华语音乐流行榜",
                 "podcaster":{
                     "id":42218,
                     "username":"赵佳",
@@ -2075,7 +2090,11 @@
                 "title":"FM88.6长沙音乐广播",
                 "clout":5791,
                 "playcount":134841,
-                "desc":"正在直播： 只听音乐不说话"
+                "desc":"正在直播： 光阴里（重播）",
+                "podcaster":{
+                    "id":230604,
+                    "username":"张燕"
+                }
             },
             {
                 "id":4237,
@@ -2110,8 +2129,11 @@
                 "playcount":40181,
                 "desc":"正在直播： 音乐周末",
                 "podcaster":{
-                    "id":375635,
-                    "username":"音乐编辑"
+                    "id":16206,
+                    "username":"FM1022主持人",
+                    "thumb":"http://tp3.sinaimg.cn/1702632874/180/40027627894/1",
+                    "weibo_name":"1022品味音乐电台",
+                    "weibo_id":"1702632874"
                 }
             },
             {
@@ -2120,10 +2142,10 @@
                 "title":"FM105.0长沙新闻广播",
                 "clout":2332,
                 "playcount":34457,
-                "desc":"正在直播： 都市精英的冷暖人生",
+                "desc":"正在直播： 听听资讯听听歌",
                 "podcaster":{
-                    "id":375272,
-                    "username":"华蓉"
+                    "id":382065,
+                    "username":"新闻广播"
                 }
             },
             {
@@ -2132,11 +2154,11 @@
                 "title":"Easy Fm",
                 "clout":2851,
                 "playcount":26973,
-                "desc":"正在直播： Easy早出发",
+                "desc":"正在直播： 音乐地图",
                 "podcaster":{
-                    "id":375954,
-                    "username":"安冬",
-                    "thumb":"http://pic.qtfm.cn/2020/0906/20200906125705.jpeg"
+                    "id":375953,
+                    "username":"蕾蕾",
+                    "thumb":"http://pic.qtfm.cn/2020/0906/20200906125632.jpeg"
                 }
             },
             {
@@ -2145,7 +2167,7 @@
                 "title":"FM106.8常德鼎广电台",
                 "clout":1566,
                 "playcount":23894,
-                "desc":"正在直播： 广播剧场"
+                "desc":"正在直播： 畅游周末"
             },
             {
                 "id":5022076,
@@ -2153,11 +2175,7 @@
                 "title":"长沙925电台",
                 "clout":2101,
                 "playcount":19047,
-                "desc":"正在直播： 听见大泽湖",
-                "podcaster":{
-                    "id":381503,
-                    "username":"小一"
-                }
+                "desc":"正在直播： 城市音乐圈"
             },
             {
                 "id":3971,
@@ -2181,11 +2199,11 @@
                 "title":"岳阳交通广播",
                 "clout":1164,
                 "playcount":9973,
-                "desc":"正在直播： 把耳朵叫醒（直播）",
+                "desc":"正在直播： 车厢里的幸福（直播）",
                 "podcaster":{
-                    "id":299987,
-                    "username":"夏天",
-                    "thumb":"http://pic.qtfm.cn/2023/0320/20230320112702.jpeg"
+                    "id":198578,
+                    "username":"雨萌",
+                    "thumb":"http://pic.qtfm.cn/2023/0320/20230320112634.jpeg"
                 }
             },
             {
@@ -2207,10 +2225,10 @@
                 "title":"广东广播电视台股市广播",
                 "clout":13661,
                 "playcount":3019998,
-                "desc":"正在直播： 宵傲江湖（嘉宾 李大霄）",
+                "desc":"正在直播： 金融大讲堂",
                 "podcaster":{
-                    "id":50521,
-                    "username":"黄进"
+                    "id":50526,
+                    "username":"梁欣"
                 }
             },
             {
@@ -2219,7 +2237,11 @@
                 "title":"广东珠江经济电台",
                 "clout":13508,
                 "playcount":2632269,
-                "desc":"正在直播： 湾区粤韵"
+                "desc":"正在直播： 光阴的故事",
+                "podcaster":{
+                    "id":378996,
+                    "username":"周伟"
+                }
             },
             {
                 "id":471,
@@ -2227,7 +2249,13 @@
                 "title":"广东广播电视台文体广播",
                 "clout":12155,
                 "playcount":1406428,
-                "desc":"正在直播： 音乐在路上"
+                "desc":"正在直播： 健康生活+",
+                "podcaster":{
+                    "id":55221,
+                    "username":"cc",
+                    "thumb":"http://pic.qtfm.cn/2016/1123/20161123030341.jpeg",
+                    "weibo_id":"0"
+                }
             },
             {
                 "id":1270,
@@ -2235,10 +2263,10 @@
                 "title":"深圳先锋898",
                 "clout":12125,
                 "playcount":1368329,
-                "desc":"正在直播： 898早新闻",
+                "desc":"正在直播： AI科技秀",
                 "podcaster":{
-                    "id":284707,
-                    "username":"杨帆"
+                    "id":79430,
+                    "username":"马勇"
                 }
             },
             {
@@ -2247,10 +2275,10 @@
                 "title":"广东交通之声",
                 "clout":12299,
                 "playcount":1216309,
-                "desc":"正在直播： 朝朝早，精神好",
+                "desc":"正在直播： 一早上车",
                 "podcaster":{
-                    "id":49515,
-                    "username":"余泳欣"
+                    "id":380481,
+                    "username":"苗泳羽"
                 }
             },
             {
@@ -2259,7 +2287,7 @@
                 "title":"鹤山电台",
                 "clout":12013,
                 "playcount":1079064,
-                "desc":"正在直播： 流淌的歌声"
+                "desc":"正在直播： 点只星期七"
             },
             {
                 "id":1260,
@@ -2267,10 +2295,10 @@
                 "title":"广东音乐之声",
                 "clout":12687,
                 "playcount":1025440,
-                "desc":"正在直播： 从音乐出发",
+                "desc":"正在直播： 乐读时光",
                 "podcaster":{
-                    "id":222531,
-                    "username":"张薇娜"
+                    "id":378163,
+                    "username":"木子"
                 }
             },
             {
@@ -2279,7 +2307,7 @@
                 "title":"广州新闻资讯广播",
                 "clout":11034,
                 "playcount":769151,
-                "desc":"正在直播： 岭南私伙局"
+                "desc":"正在直播： 科创新天地"
             },
             {
                 "id":1254,
@@ -2287,10 +2315,10 @@
                 "title":"广东新闻广播",
                 "clout":7956,
                 "playcount":532158,
-                "desc":"正在直播： 流淌的歌声",
+                "desc":"正在直播： 安全你我他",
                 "podcaster":{
-                    "id":12819,
-                    "username":"佟冰"
+                    "id":12810,
+                    "username":"马琳"
                 }
             },
             {
@@ -2299,7 +2327,7 @@
                 "title":"中山电台快乐888",
                 "clout":6606,
                 "playcount":430109,
-                "desc":"正在直播： 好音乐无国界"
+                "desc":"正在直播： 文化中国"
             },
             {
                 "id":4955,
@@ -2307,10 +2335,11 @@
                 "title":"广州交通广播",
                 "clout":6776,
                 "playcount":428458,
-                "desc":"正在直播： 一路醒晨",
+                "desc":"正在直播： 1061车友会",
                 "podcaster":{
-                    "id":378625,
-                    "username":"舒心"
+                    "id":45670,
+                    "username":"柳霖",
+                    "weibo_name":"柳霖William"
                 }
             },
             {
@@ -2319,7 +2348,7 @@
                 "title":"广东城市之声",
                 "clout":6398,
                 "playcount":415942,
-                "desc":"正在直播： 聪明学堂"
+                "desc":"正在直播： 升学有道"
             }
         ]
     },
@@ -2332,7 +2361,7 @@
                 "title":"FM950广西音乐台",
                 "clout":7779,
                 "playcount":274793,
-                "desc":"正在直播： 早安音乐秀",
+                "desc":"正在直播： 只听好歌不听话",
                 "podcaster":{
                     "id":23767,
                     "username":"950MusicRadio",
@@ -2347,10 +2376,10 @@
                 "title":"广西私家车930",
                 "clout":4515,
                 "playcount":195168,
-                "desc":"正在直播： 开心假日",
+                "desc":"正在直播： 八颗牙齿晒太阳",
                 "podcaster":{
-                    "id":379491,
-                    "username":"私家车930"
+                    "id":379492,
+                    "username":"紫悦、乐乐"
                 }
             },
             {
@@ -2359,7 +2388,7 @@
                 "title":"广西电台新闻910",
                 "clout":4569,
                 "playcount":178839,
-                "desc":"正在直播： 新闻时刻早高峰"
+                "desc":"正在直播： 新闻时刻"
             },
             {
                 "id":1754,
@@ -2367,13 +2396,13 @@
                 "title":"广西970女主播电台",
                 "clout":3681,
                 "playcount":114725,
-                "desc":"正在直播： 听听资讯听听歌 水蜜桃女主播时间",
+                "desc":"正在直播： 周末好心情",
                 "podcaster":{
-                    "id":374241,
-                    "username":"文佳",
-                    "thumb":"http://pic.qtfm.cn/2022/0223/20220223043428.jpeg",
-                    "weibo_name":"970女主播文佳",
-                    "weibo_id":"1783754225"
+                    "id":374240,
+                    "username":"王静",
+                    "thumb":"http://pic.qtfm.cn/2022/0223/20220223042532.jpeg",
+                    "weibo_name":"970女主播电台海棠果女主播王静",
+                    "weibo_id":"1921012327"
                 }
             },
             {
@@ -2382,13 +2411,13 @@
                 "title":"南宁经典1049",
                 "clout":3339,
                 "playcount":109681,
-                "desc":"正在直播： 向往的远方",
+                "desc":"正在直播： 经典留声机",
                 "podcaster":{
-                    "id":17607,
-                    "username":"经典1049",
-                    "thumb":"http://tp2.sinaimg.cn/1971774233/180/5715570789/0",
-                    "weibo_name":"经典1049",
-                    "weibo_id":"1971774233"
+                    "id":17600,
+                    "username":"刘涟",
+                    "thumb":"http://tp2.sinaimg.cn/3775520621/180/40058554940/0",
+                    "weibo_name":"1049刘涟",
+                    "weibo_id":"3775520621"
                 }
             },
             {
@@ -2397,10 +2426,10 @@
                 "title":"广西交通台",
                 "clout":2964,
                 "playcount":72753,
-                "desc":"正在直播： 早高峰",
+                "desc":"正在直播： 有氧周末",
                 "podcaster":{
-                    "id":233444,
-                    "username":"小胖"
+                    "id":231767,
+                    "username":"轮值"
                 }
             },
             {
@@ -2409,7 +2438,7 @@
                 "title":"玉林交通音乐广播",
                 "clout":2189,
                 "playcount":32650,
-                "desc":"正在直播： 音乐晨飞扬"
+                "desc":"正在直播： 我的音乐有话说"
             },
             {
                 "id":1762,
@@ -2417,10 +2446,10 @@
                 "title":"978玉林城市电台",
                 "clout":1764,
                 "playcount":22053,
-                "desc":"正在直播： 玉林新闻",
+                "desc":"正在直播： 城市乐动听",
                 "podcaster":{
-                    "id":252531,
-                    "username":"晓丽"
+                    "id":252530,
+                    "username":"978城市电台"
                 }
             },
             {
@@ -2441,11 +2470,7 @@
                 "title":"南宁990新闻台",
                 "clout":1454,
                 "playcount":14967,
-                "desc":"正在直播： 990今早报",
-                "podcaster":{
-                    "id":53055,
-                    "username":"葛明"
-                }
+                "desc":"正在直播： 990听音乐"
             },
             {
                 "id":4599,
@@ -2453,11 +2478,10 @@
                 "title":"梧州广播电视台交通音乐之声",
                 "clout":1378,
                 "playcount":13204,
-                "desc":"正在直播： 飞扬1075",
+                "desc":"正在直播： 品质生活",
                 "podcaster":{
-                    "id":29837,
-                    "username":"音乐无人驾驶",
-                    "weibo_id":"0"
+                    "id":29829,
+                    "username":"GIGI"
                 }
             },
             {
@@ -2466,7 +2490,7 @@
                 "title":"贵港金曲1019",
                 "clout":1377,
                 "playcount":11682,
-                "desc":"正在直播： 中国梦歌曲展播"
+                "desc":"正在直播： 荷姐姐说"
             }
         ]
     },
@@ -2479,10 +2503,11 @@
                 "title":"交通954",
                 "clout":3313,
                 "playcount":119818,
-                "desc":"正在直播： 口述中国",
+                "desc":"正在直播： 快乐同行",
                 "podcaster":{
-                    "id":52351,
-                    "username":"录播节目"
+                    "id":378703,
+                    "username":"值班主持人",
+                    "thumb":"http://pic.qtfm.cn/2022/0218/20220218011310.png"
                 }
             },
             {
@@ -2491,10 +2516,10 @@
                 "title":"海南民生广播",
                 "clout":3399,
                 "playcount":102665,
-                "desc":"正在直播： A榜",
+                "desc":"正在直播： 我爱琼剧（重播）",
                 "podcaster":{
-                    "id":376500,
-                    "username":"陈奕淮"
+                    "id":17825,
+                    "username":"王毅"
                 }
             },
             {
@@ -2503,10 +2528,10 @@
                 "title":"海南新闻广播",
                 "clout":2571,
                 "playcount":77024,
-                "desc":"正在直播： 深度时间",
+                "desc":"正在直播： 丝路书香",
                 "podcaster":{
-                    "id":14304,
-                    "username":"胡涔"
+                    "id":86887,
+                    "username":"一宁"
                 }
             },
             {
@@ -2515,7 +2540,7 @@
                 "title":"三亚天涯之声",
                 "clout":3285,
                 "playcount":45845,
-                "desc":"正在直播： 小亲的暖心歌"
+                "desc":"正在直播： 创业英雄谱"
             },
             {
                 "id":15318203,
@@ -2523,7 +2548,7 @@
                 "title":"三亚之声",
                 "clout":1502,
                 "playcount":38541,
-                "desc":"正在直播： 读书俱乐部"
+                "desc":"正在直播： 名家座谈"
             },
             {
                 "id":20010,
@@ -2544,7 +2569,14 @@
                 "title":"海南交通广播",
                 "clout":1760,
                 "playcount":32766,
-                "desc":"正在直播： 听天下"
+                "desc":"正在直播： 声动早班车周末派",
+                "podcaster":{
+                    "id":1592,
+                    "username":"乐宁",
+                    "thumb":"http://pic.qtfm.cn/2024/0517/20240517054741.jpeg",
+                    "weibo_name":"上早班的乐宁",
+                    "weibo_id":"6142146342"
+                }
             },
             {
                 "id":4878,
@@ -2552,11 +2584,7 @@
                 "title":"海南音乐广播",
                 "clout":1604,
                 "playcount":24172,
-                "desc":"正在直播： 音乐先锋榜",
-                "podcaster":{
-                    "id":378930,
-                    "username":"张小弦"
-                }
+                "desc":"正在直播： 有风的时光音乐会"
             },
             {
                 "id":5022015,
@@ -2564,7 +2592,7 @@
                 "title":"FM101.8海口综合广播",
                 "clout":1226,
                 "playcount":16478,
-                "desc":"正在直播： 全景中国"
+                "desc":"正在直播： 假日节拍"
             },
             {
                 "id":1862,
@@ -2572,11 +2600,7 @@
                 "title":"海南旅游广播•国际旅游岛之声",
                 "clout":1043,
                 "playcount":5313,
-                "desc":"正在直播： 引进节目-音乐类",
-                "podcaster":{
-                    "id":210641,
-                    "username":"国际旅游岛之声"
-                }
+                "desc":"正在直播： 营销中心专题"
             },
             {
                 "id":5022287,
@@ -2584,7 +2608,7 @@
                 "title":"琼海人民广播电台",
                 "clout":1024,
                 "playcount":4388,
-                "desc":"正在直播： 琼海新闻（普通话）"
+                "desc":"正在直播： 超级好听（周末精编）"
             }
         ]
     },
@@ -2597,10 +2621,12 @@
                 "title":"938重庆私家车广播",
                 "clout":5354,
                 "playcount":276477,
-                "desc":"正在直播： 小眼睛大世界",
+                "desc":"正在直播： 快乐车生活（上午版）",
                 "podcaster":{
-                    "id":381438,
-                    "username":"吕政超"
+                    "id":13638,
+                    "username":"大爽",
+                    "thumb":"http://pic.qtfm.cn/2017/0206/20170206113829.jpeg",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -2609,10 +2635,10 @@
                 "title":"重庆交通广播",
                 "clout":3949,
                 "playcount":111597,
-                "desc":"正在直播： 资讯早班车",
+                "desc":"正在直播： 955与你相随",
                 "podcaster":{
-                    "id":40189,
-                    "username":"陈臣"
+                    "id":40182,
+                    "username":"王怡"
                 }
             },
             {
@@ -2621,11 +2647,7 @@
                 "title":"重庆之声",
                 "clout":3530,
                 "playcount":96525,
-                "desc":"正在直播： 重庆早新闻",
-                "podcaster":{
-                    "id":33303,
-                    "username":"栗杨"
-                }
+                "desc":"正在直播： 魅力周末"
             },
             {
                 "id":647,
@@ -2633,7 +2655,14 @@
                 "title":"重庆音乐广播",
                 "clout":3482,
                 "playcount":92516,
-                "desc":"正在直播： 音乐爱周末"
+                "desc":"正在直播： 城市音乐杂志",
+                "podcaster":{
+                    "id":3017,
+                    "username":"黄睿",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1649171457-80x80.jpg",
+                    "weibo_name":"DJ黄睿",
+                    "weibo_id":"1649171457"
+                }
             },
             {
                 "id":5022385,
@@ -2641,7 +2670,7 @@
                 "title":"重庆巴渝之声",
                 "clout":1978,
                 "playcount":26250,
-                "desc":"正在直播： 家风"
+                "desc":"正在直播： 音乐随身听"
             },
             {
                 "id":1499,
@@ -2649,12 +2678,11 @@
                 "title":"生活1015",
                 "clout":1788,
                 "playcount":22050,
-                "desc":"正在直播： 重庆 早上好",
+                "desc":"正在直播： 听见幸福",
                 "podcaster":{
-                    "id":22690,
-                    "username":"张瑞",
-                    "thumb":"http://pic.qtfm.cn/2018/0108/20180108021902.jpeg",
-                    "weibo_id":"0"
+                    "id":348341,
+                    "username":"洛菲",
+                    "thumb":"http://pic.qtfm.cn/2019/0920/20190920091940.jpeg"
                 }
             },
             {
@@ -2663,7 +2691,7 @@
                 "title":"重庆嘉陵之声FM88.7",
                 "clout":1689,
                 "playcount":18250,
-                "desc":"正在直播： 快乐方向盘"
+                "desc":"正在直播： 快乐出发"
             },
             {
                 "id":20210236,
@@ -2671,7 +2699,7 @@
                 "title":"100.7重庆永川之声",
                 "clout":1401,
                 "playcount":11874,
-                "desc":"正在直播： 周末100.7",
+                "desc":"正在直播： 好嗨100.7",
                 "podcaster":{
                     "id":376920,
                     "username":"FM100.7",
@@ -2684,7 +2712,7 @@
                 "title":"大足人民广播电台",
                 "clout":1016,
                 "playcount":4385,
-                "desc":"正在直播： 大足新闻",
+                "desc":"正在直播： 亚洲音乐榜",
                 "podcaster":{
                     "id":376542,
                     "username":"大足综合广播"
@@ -2709,7 +2737,12 @@
                 "title":"万盛融媒体中心综合广播",
                 "clout":595,
                 "playcount":1605,
-                "desc":"正在直播： 万盛好吃狗"
+                "desc":"正在直播： 盛游盛景",
+                "podcaster":{
+                    "id":51017,
+                    "username":"杰仔",
+                    "weibo_id":"0"
+                }
             },
             {
                 "id":20211646,
@@ -2717,7 +2750,7 @@
                 "title":"梁平之声",
                 "clout":760,
                 "playcount":1512,
-                "desc":"正在直播： 转播重庆之声968早新闻"
+                "desc":"正在直播： 闲话重庆城"
             }
         ]
     },
@@ -2730,7 +2763,7 @@
                 "title":"四川新闻广播FM106.1",
                 "clout":11548,
                 "playcount":578315,
-                "desc":"正在直播： 天府早新闻"
+                "desc":"正在直播： 新新闻"
             },
             {
                 "id":4886,
@@ -2738,7 +2771,7 @@
                 "title":"四川交通广播FM101.7",
                 "clout":8462,
                 "playcount":464452,
-                "desc":"正在直播： 栀子花开"
+                "desc":"正在直播： 快乐出发"
             },
             {
                 "id":20211686,
@@ -2746,10 +2779,10 @@
                 "title":"成都年代音乐怀旧好声音",
                 "clout":6532,
                 "playcount":228146,
-                "desc":"正在直播： 周末零压力",
+                "desc":"正在直播： 青春恋歌",
                 "podcaster":{
-                    "id":378294,
-                    "username":"无人驾驶"
+                    "id":381881,
+                    "username":"小莫"
                 }
             },
             {
@@ -2766,7 +2799,7 @@
                 "title":"四川财富生活广播FM94.0",
                 "clout":4100,
                 "playcount":135290,
-                "desc":"正在直播： 音乐Morning Call"
+                "desc":"正在直播： 假日好时光"
             },
             {
                 "id":4891,
@@ -2774,7 +2807,7 @@
                 "title":"成都交通文艺广播FM91.4",
                 "clout":3577,
                 "playcount":127399,
-                "desc":"正在直播： 天府音乐听"
+                "desc":"正在直播： 假日时光"
             },
             {
                 "id":1121,
@@ -2782,7 +2815,14 @@
                 "title":"成都经济广播",
                 "clout":3276,
                 "playcount":114376,
-                "desc":"正在直播： 健康新指标"
+                "desc":"正在直播： 谈股论经",
+                "podcaster":{
+                    "id":4992,
+                    "username":"陈露",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1668323734-80x80.jpg",
+                    "weibo_name":"成都电台陈露",
+                    "weibo_id":"1668323734"
+                }
             },
             {
                 "id":4987,
@@ -2790,7 +2830,7 @@
                 "title":"德阳综合广播",
                 "clout":3030,
                 "playcount":104811,
-                "desc":"正在直播： 光阴的故事"
+                "desc":"正在直播： 音乐节目"
             },
             {
                 "id":15318703,
@@ -2810,7 +2850,7 @@
                 "title":"四川城市之音",
                 "clout":2690,
                 "playcount":59201,
-                "desc":"正在直播： 享听时间-城市故事会"
+                "desc":"正在直播： 享听时间--城市自在听"
             },
             {
                 "id":4581,
@@ -2830,14 +2870,7 @@
                 "title":"四川岷江音乐广播",
                 "clout":2390,
                 "playcount":36621,
-                "desc":"正在直播： 955音乐公路",
-                "podcaster":{
-                    "id":1076,
-                    "username":"陈呈",
-                    "thumb":"http://pic.qtfm.cn/2018/0306/20180306032333.jpeg",
-                    "weibo_name":"岷江音乐陈呈",
-                    "weibo_id":"1913762135"
-                }
+                "desc":"正在直播： 955最爱我家"
             }
         ]
     },
@@ -2850,11 +2883,7 @@
                 "title":"贵州交通广播",
                 "clout":3975,
                 "playcount":87250,
-                "desc":"正在直播： 我们出发吧",
-                "podcaster":{
-                    "id":377845,
-                    "username":"雨婷"
-                }
+                "desc":"正在直播： 音乐有范"
             },
             {
                 "id":20063,
@@ -2862,7 +2891,7 @@
                 "title":"贵州广播电视台综合广播",
                 "clout":2111,
                 "playcount":34563,
-                "desc":"正在直播： 阳光946 重播"
+                "desc":"正在直播： 共享生活"
             },
             {
                 "id":20067,
@@ -2878,10 +2907,11 @@
                 "title":"FM102.7贵阳交通广播",
                 "clout":1465,
                 "playcount":20274,
-                "desc":"正在直播： 全球华语广播歌曲排行榜",
+                "desc":"正在直播： 1027好歌不断",
                 "podcaster":{
-                    "id":66928,
-                    "username":"录播节目"
+                    "id":66933,
+                    "username":"1027主播",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -2890,7 +2920,11 @@
                 "title":"遵义交通文艺广播 FM94.1",
                 "clout":1350,
                 "playcount":18289,
-                "desc":"正在直播： 城市悦动听"
+                "desc":"正在直播： 文艺节目",
+                "podcaster":{
+                    "id":265828,
+                    "username":"引进"
+                }
             },
             {
                 "id":1773,
@@ -2898,10 +2932,12 @@
                 "title":"贵阳新闻综合广播",
                 "clout":1437,
                 "playcount":15556,
-                "desc":"正在直播： 贵阳新闻",
+                "desc":"正在直播： 889快资讯+889音乐典藏",
                 "podcaster":{
-                    "id":14145,
-                    "username":"杨慧"
+                    "id":14143,
+                    "username":"桐语",
+                    "thumb":"http://pic.qtfm.cn/2018/0319/20180319035144.jpeg",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -2910,7 +2946,7 @@
                 "title":"安顺交通广播Fm102.9",
                 "clout":1195,
                 "playcount":11516,
-                "desc":"正在直播： 音乐"
+                "desc":"正在直播： 1029周末好声音"
             },
             {
                 "id":5046,
@@ -2918,7 +2954,13 @@
                 "title":"黔西南FM88.3交通旅游广播",
                 "clout":1152,
                 "playcount":11376,
-                "desc":"正在直播： 音乐"
+                "desc":"正在直播： 883健康头等舱",
+                "podcaster":{
+                    "id":221241,
+                    "username":"如云",
+                    "thumb":"http://pic.qtfm.cn/2018/0813/20180813043936.jpeg",
+                    "weibo_id":"0"
+                }
             },
             {
                 "id":5022045,
@@ -2926,7 +2968,7 @@
                 "title":"凯里人民广播电台",
                 "clout":1068,
                 "playcount":7522,
-                "desc":"正在直播： 凯里新闻  重播"
+                "desc":"正在直播： 930城市漫游"
             },
             {
                 "id":20059,
@@ -2990,7 +3032,7 @@
                 "title":"云南新闻广播",
                 "clout":4325,
                 "playcount":134530,
-                "desc":"正在直播： 广听天下"
+                "desc":"正在直播： 天天健康"
             },
             {
                 "id":1937,
@@ -2998,10 +3040,10 @@
                 "title":"FM105城市资讯",
                 "clout":1775,
                 "playcount":41768,
-                "desc":"正在直播： 城市音乐盒子+银发时光",
+                "desc":"正在直播： 全景校园",
                 "podcaster":{
-                    "id":71381,
-                    "username":"张凡"
+                    "id":381877,
+                    "username":"江月"
                 }
             },
             {
@@ -3010,7 +3052,14 @@
                 "title":"FM1008新闻综合广播",
                 "clout":1855,
                 "playcount":36256,
-                "desc":"正在直播： 新闻早高峰"
+                "desc":"正在直播： 诗与歌（重播）",
+                "podcaster":{
+                    "id":9568,
+                    "username":"阿底纳欣",
+                    "thumb":"http://tp1.sinaimg.cn/2255238644/180/5606112153/0",
+                    "weibo_name":"阿底纳欣",
+                    "weibo_id":"2255238644"
+                }
             },
             {
                 "id":1927,
@@ -3018,7 +3067,7 @@
                 "title":"云南私家车电台",
                 "clout":1762,
                 "playcount":30637,
-                "desc":"正在直播： 我去上班啦"
+                "desc":"正在直播： 我爱我车"
             },
             {
                 "id":20139,
@@ -3026,7 +3075,7 @@
                 "title":"FM99香格里拉之声",
                 "clout":1768,
                 "playcount":28646,
-                "desc":"正在直播： 出行大家帮-元气版"
+                "desc":"正在直播： 专题时间"
             },
             {
                 "id":5021850,
@@ -3034,7 +3083,7 @@
                 "title":"德宏民语综合广播",
                 "clout":1428,
                 "playcount":25036,
-                "desc":"正在直播： 傣语文艺"
+                "desc":"正在直播： 载瓦语专题及民族艺术剧场"
             },
             {
                 "id":21249,
@@ -3042,14 +3091,7 @@
                 "title":"昭通新闻综合广播",
                 "clout":1241,
                 "playcount":19543,
-                "desc":"正在直播： 朱提书苑+声动少年",
-                "podcaster":{
-                    "id":7779,
-                    "username":"一山",
-                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1444542025-80x80.jpg",
-                    "weibo_name":"AUZT一山",
-                    "weibo_id":"1444542025"
-                }
+                "desc":"正在直播： 健康教育三分钟 百家讲坛 十分热门"
             },
             {
                 "id":1929,
@@ -3057,13 +3099,13 @@
                 "title":"云南音乐广播",
                 "clout":1438,
                 "playcount":16277,
-                "desc":"正在直播： 音乐早出发",
+                "desc":"正在直播： 好听在九点",
                 "podcaster":{
-                    "id":55371,
-                    "username":"宁宇",
-                    "thumb":"http://pic.qtfm.cn/2016/0901/20160901033609.jpeg",
-                    "weibo_name":"欧阳宁宇",
-                    "weibo_id":"1677698420"
+                    "id":3375,
+                    "username":"刘茜",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1455057272-80x80.jpg",
+                    "weibo_name":"DJ刘茜",
+                    "weibo_id":"1455057272"
                 }
             },
             {
@@ -3072,7 +3114,7 @@
                 "title":"红河交通广播 ",
                 "clout":1250,
                 "playcount":16211,
-                "desc":"正在直播： 汽车CD",
+                "desc":"正在直播： 在路上",
                 "podcaster":{
                     "id":55132,
                     "username":"小秋"
@@ -3084,12 +3126,7 @@
                 "title":"玉溪新闻综合广播FM102.4",
                 "clout":1176,
                 "playcount":13280,
-                "desc":"正在直播： 玉广新闻",
-                "podcaster":{
-                    "id":142833,
-                    "username":"杨素",
-                    "weibo_id":"0"
-                }
+                "desc":"正在直播： 引进节目"
             }
         ]
     },
@@ -3102,13 +3139,7 @@
                 "title":"陕西都市广播",
                 "clout":7710,
                 "playcount":376951,
-                "desc":"正在直播： 陕广大视野",
-                "podcaster":{
-                    "id":13840,
-                    "username":"杨建军",
-                    "thumb":"http://pic.qtfm.cn/2016/0804/20160804023704.jpeg",
-                    "weibo_id":"0"
-                }
+                "desc":"正在直播： 陕广大家帮（重播）"
             },
             {
                 "id":1601,
@@ -3116,7 +3147,7 @@
                 "title":"陕西交通广播",
                 "clout":5293,
                 "playcount":170620,
-                "desc":"正在直播： 假日morning call"
+                "desc":"正在直播： 916快乐出发"
             },
             {
                 "id":1600,
@@ -3124,10 +3155,10 @@
                 "title":"陕西新闻广播",
                 "clout":4872,
                 "playcount":133418,
-                "desc":"正在直播： 秦风热线",
+                "desc":"正在直播： 枫叶正红",
                 "podcaster":{
-                    "id":374452,
-                    "username":"刘园园"
+                    "id":374453,
+                    "username":"王实"
                 }
             },
             {
@@ -3160,10 +3191,10 @@
                 "title":"西安新闻广播",
                 "clout":3224,
                 "playcount":74289,
-                "desc":"正在直播： 新闻在路上（早间版）",
+                "desc":"正在直播： 遇见风景",
                 "podcaster":{
-                    "id":109536,
-                    "username":"刘婕"
+                    "id":109532,
+                    "username":"李敏"
                 }
             },
             {
@@ -3172,13 +3203,10 @@
                 "title":"FM100.7咸阳人民广播电台",
                 "clout":2860,
                 "playcount":72749,
-                "desc":"正在直播： 1007新闻早读",
+                "desc":"正在直播： 乐游四方",
                 "podcaster":{
-                    "id":26411,
-                    "username":"鲍峰",
-                    "thumb":"http://tp1.sinaimg.cn/2284513152/180/5635419799/1",
-                    "weibo_name":"1007鲍峰",
-                    "weibo_id":"2284513152"
+                    "id":380780,
+                    "username":"宇鹏"
                 }
             },
             {
@@ -3187,7 +3215,7 @@
                 "title":"陕西戏曲广播",
                 "clout":2464,
                 "playcount":53565,
-                "desc":"正在直播： 健康伴你行"
+                "desc":"正在直播： 乐健生活"
             },
             {
                 "id":4885,
@@ -3203,10 +3231,13 @@
                 "title":"西安交通广播",
                 "clout":1883,
                 "playcount":31448,
-                "desc":"正在直播： 说走就走",
+                "desc":"正在直播： 乐玩家",
                 "podcaster":{
-                    "id":123769,
-                    "username":"杨秀"
+                    "id":749,
+                    "username":"常征",
+                    "thumb":"http://qingting-pic.b0.upaiyun.com/2012/sina_logo/1794506030-80x80.jpg",
+                    "weibo_name":"DJ常征",
+                    "weibo_id":"1794506030"
                 }
             },
             {
@@ -3215,13 +3246,13 @@
                 "title":"渭南广播FM90.9",
                 "clout":1402,
                 "playcount":17008,
-                "desc":"正在直播： 一路畅通（早间版）",
+                "desc":"正在直播： 909帮忙热线",
                 "podcaster":{
-                    "id":25964,
-                    "username":"小刚",
-                    "thumb":"http://tp4.sinaimg.cn/1773938163/180/22841373510/1",
-                    "weibo_name":"909小刚",
-                    "weibo_id":"1773938163"
+                    "id":26154,
+                    "username":"王翠",
+                    "thumb":"http://tp3.sinaimg.cn/1762969830/180/5697382010/0",
+                    "weibo_name":"909王翠",
+                    "weibo_id":"1762969830"
                 }
             }
         ]
@@ -3235,10 +3266,10 @@
                 "title":"甘肃交通广播",
                 "clout":3445,
                 "playcount":88479,
-                "desc":"正在直播： 早安甘肃",
+                "desc":"正在直播： 1035帮帮忙",
                 "podcaster":{
-                    "id":163007,
-                    "username":"郑雪"
+                    "id":253896,
+                    "username":"欣忆"
                 }
             },
             {
@@ -3247,7 +3278,7 @@
                 "title":"甘肃新闻综合广播",
                 "clout":2880,
                 "playcount":51905,
-                "desc":"正在直播： 甘肃新闻"
+                "desc":"正在直播： 畅听陇原"
             },
             {
                 "id":20460,
@@ -3255,7 +3286,7 @@
                 "title":"天水综合广播",
                 "clout":1757,
                 "playcount":23395,
-                "desc":"正在直播： 新闻直播间",
+                "desc":"正在直播： 877经典故事",
                 "podcaster":{
                     "id":89648,
                     "username":"FM87.7  AM1143",
@@ -3268,10 +3299,12 @@
                 "title":"张掖新闻综合广播",
                 "clout":1375,
                 "playcount":17168,
-                "desc":"正在直播： 新闻纵横",
+                "desc":"正在直播： 欢声笑语",
                 "podcaster":{
-                    "id":382018,
-                    "username":"转播"
+                    "id":239360,
+                    "username":"小蕾",
+                    "weibo_name":"人见人爱的蕾蕾思密达",
+                    "weibo_id":"2147483647"
                 }
             },
             {
@@ -3280,10 +3313,10 @@
                 "title":"FM106.6综合广播",
                 "clout":1542,
                 "playcount":12679,
-                "desc":"正在直播： 肃州新闻",
+                "desc":"正在直播： 说唱听我的",
                 "podcaster":{
-                    "id":375115,
-                    "username":"徐燕丽"
+                    "id":376556,
+                    "username":"AI"
                 }
             },
             {
@@ -3305,7 +3338,7 @@
                 "title":"甘肃农村广播",
                 "clout":1403,
                 "playcount":9156,
-                "desc":"正在直播： 12316三农热线（重播）"
+                "desc":"正在直播： 广播剧场"
             },
             {
                 "id":20211613,
@@ -3313,7 +3346,7 @@
                 "title":"天水交通广播FM91.9",
                 "clout":1163,
                 "playcount":8149,
-                "desc":"正在直播： 919城市音乐日志",
+                "desc":"正在直播： 919警法在线",
                 "podcaster":{
                     "id":167216,
                     "username":"FM91.9",
@@ -3326,7 +3359,7 @@
                 "title":"定西交通广播",
                 "clout":974,
                 "playcount":3599,
-                "desc":"正在直播： 中国之声（转播）",
+                "desc":"正在直播： 音乐方向盘",
                 "podcaster":{
                     "id":258772,
                     "username":"超级主播"
@@ -3343,7 +3376,7 @@
                 "title":"宁夏交通广播",
                 "clout":2235,
                 "playcount":56119,
-                "desc":"正在直播： 南腔北调逗逗哏"
+                "desc":"正在直播： 984生活百科·健康984"
             },
             {
                 "id":15318294,
@@ -3351,10 +3384,11 @@
                 "title":"宁夏音乐广播",
                 "clout":1421,
                 "playcount":12558,
-                "desc":"正在直播： Ai悦动时光",
+                "desc":"正在直播： 向上读书会",
                 "podcaster":{
-                    "id":372160,
-                    "username":"Ai主播梧桐"
+                    "id":199928,
+                    "username":"DJ大熊",
+                    "thumb":"http://pic.qtfm.cn/2018/0614/20180614045719.jpeg"
                 }
             },
             {
@@ -3363,7 +3397,7 @@
                 "title":"宁夏经济广播",
                 "clout":1202,
                 "playcount":10761,
-                "desc":"正在直播： 朝闻天下"
+                "desc":"正在直播： 928主播私房歌"
             },
             {
                 "id":5022563,
@@ -3371,7 +3405,7 @@
                 "title":"石嘴山综合广播",
                 "clout":1084,
                 "playcount":6237,
-                "desc":"正在直播： 历史奥秘"
+                "desc":"正在直播： 中华文化大讲堂"
             },
             {
                 "id":1842,
@@ -3379,7 +3413,7 @@
                 "title":"宁夏旅游广播",
                 "clout":1061,
                 "playcount":4231,
-                "desc":"正在直播： 朝闻天下"
+                "desc":"正在直播： 周末阅读"
             }
         ]
     },
@@ -3392,7 +3426,7 @@
                 "title":"新疆电台维语交通文艺广播",
                 "clout":6045,
                 "playcount":454480,
-                "desc":"正在直播： 相约在早晨"
+                "desc":"正在直播： 1074交通早班车"
             },
             {
                 "id":1910,
@@ -3400,7 +3434,7 @@
                 "title":"新疆交通广播",
                 "clout":6779,
                 "playcount":414006,
-                "desc":"正在直播： 相约949"
+                "desc":"正在直播： 开心路路通"
             },
             {
                 "id":5022688,
@@ -3408,7 +3442,7 @@
                 "title":"伊犁维吾尔语综合广播",
                 "clout":3294,
                 "playcount":166976,
-                "desc":"正在直播： 歌曲欣赏"
+                "desc":"正在直播： 953伴您同行"
             },
             {
                 "id":1902,
@@ -3416,10 +3450,11 @@
                 "title":"新疆新闻广播FM96.1",
                 "clout":3479,
                 "playcount":161657,
-                "desc":"正在直播： 新疆名医堂早间版",
+                "desc":"正在直播： 新广行风热线",
                 "podcaster":{
-                    "id":374467,
-                    "username":"晓玲"
+                    "id":14390,
+                    "username":"刘华",
+                    "weibo_id":"0"
                 }
             },
             {
@@ -3428,7 +3463,7 @@
                 "title":"乌鲁木齐维吾尔语广播",
                 "clout":3090,
                 "playcount":132846,
-                "desc":"正在直播： 乌鲁木齐新闻"
+                "desc":"正在直播： 城市特快"
             },
             {
                 "id":1909,
@@ -3436,7 +3471,11 @@
                 "title":"新疆929文化旅游广播",
                 "clout":3449,
                 "playcount":93690,
-                "desc":"正在直播： 广播购物"
+                "desc":"正在直播： 百姓热线",
+                "podcaster":{
+                    "id":42114,
+                    "username":"东亮"
+                }
             },
             {
                 "id":5022410,
@@ -3444,7 +3483,7 @@
                 "title":"兵团882综合广播",
                 "clout":3395,
                 "playcount":82341,
-                "desc":"正在直播： 健康进行时"
+                "desc":"正在直播： 新闻直通车"
             },
             {
                 "id":1918,
@@ -3452,7 +3491,11 @@
                 "title":"乌鲁木齐新闻广播",
                 "clout":2385,
                 "playcount":48572,
-                "desc":"正在直播： 开始曲+健康来了"
+                "desc":"正在直播： 都市早班车",
+                "podcaster":{
+                    "id":250557,
+                    "username":"陈亮"
+                }
             },
             {
                 "id":1919,
@@ -3460,13 +3503,13 @@
                 "title":"乌鲁木齐974交通广播",
                 "clout":1807,
                 "playcount":37221,
-                "desc":"正在直播： 乌鲁木齐新闻",
+                "desc":"正在直播： 城市特快",
                 "podcaster":{
-                    "id":24566,
-                    "username":"录播",
-                    "thumb":"http://pic.qtfm.cn/2018/0524/20180524053134.jpeg",
-                    "weibo_name":"乌鲁木齐974交通广播",
-                    "weibo_id":"1750358914"
+                    "id":195107,
+                    "username":"乐涵",
+                    "thumb":"http://pic.qtfm.cn/2018/0524/20180524053227.jpeg",
+                    "weibo_name":"乐涵小妮子",
+                    "weibo_id":"2000480041"
                 }
             },
             {
@@ -3475,7 +3518,7 @@
                 "title":"伊犁哈萨克语综合广播",
                 "clout":1344,
                 "playcount":30989,
-                "desc":"正在直播： 全天播音结束"
+                "desc":"正在直播： 与你同行"
             },
             {
                 "id":5022104,
@@ -3483,7 +3526,14 @@
                 "title":"巴音郭楞广播电视台1077交通文艺广播",
                 "clout":1463,
                 "playcount":28881,
-                "desc":"正在直播： 停机检修"
+                "desc":"正在直播： 你好1077",
+                "podcaster":{
+                    "id":24002,
+                    "username":"路晨",
+                    "thumb":"http://tp1.sinaimg.cn/1937889072/180/5711857518/1",
+                    "weibo_name":"路晨someone",
+                    "weibo_id":"1937889072"
+                }
             },
             {
                 "id":1908,
@@ -3491,10 +3541,10 @@
                 "title":"新疆哈萨克语广播",
                 "clout":1453,
                 "playcount":26874,
-                "desc":"正在直播： 晨星（tang xolpan）",
+                "desc":"正在直播： 民生零距离（alten kopir）",
                 "podcaster":{
-                    "id":40942,
-                    "username":"赛力克·胡玛尔"
+                    "id":40937,
+                    "username":"阿尔达克·玛哈泰"
                 }
             }
         ]
@@ -3508,7 +3558,7 @@
                 "title":"拉萨人民广播电台914",
                 "clout":1700,
                 "playcount":19043,
-                "desc":"正在直播： （直播）天籁之音 （藏）"
+                "desc":"正在直播： 相约西藏【藏】"
             }
         ]
     },
@@ -3521,10 +3571,10 @@
                 "title":"青海交通音乐",
                 "clout":2210,
                 "playcount":43652,
-                "desc":"正在直播： 972早高峰",
+                "desc":"正在直播： 交广伴你行",
                 "podcaster":{
-                    "id":24639,
-                    "username":"李煊"
+                    "id":24642,
+                    "username":"闻泰"
                 }
             },
             {
@@ -3533,7 +3583,7 @@
                 "title":"西宁新闻综合广播",
                 "clout":1563,
                 "playcount":21021,
-                "desc":"正在直播： 新闻纵横"
+                "desc":"正在直播： 夏都好声音"
             },
             {
                 "id":5021413,
@@ -3541,7 +3591,7 @@
                 "title":"青海生活广播 花儿调频",
                 "clout":1566,
                 "playcount":16609,
-                "desc":"正在直播： 903早音乐"
+                "desc":"正在直播： 声声不息"
             },
             {
                 "id":5008,
@@ -3549,7 +3599,7 @@
                 "title":"青海经济广播",
                 "clout":1323,
                 "playcount":15871,
-                "desc":"正在直播： 1075超级朋友圈"
+                "desc":"正在直播： 石头剪刀布"
             },
             {
                 "id":5022283,
@@ -3557,11 +3607,7 @@
                 "title":"FM104.3西宁交通文艺广播",
                 "clout":1302,
                 "playcount":12098,
-                "desc":"正在直播： 早安西宁",
-                "podcaster":{
-                    "id":95484,
-                    "username":"柯超"
-                }
+                "desc":"正在直播： 音乐最动听"
             }
         ]
     }
