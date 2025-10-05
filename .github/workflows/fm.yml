@@ -3,9 +3,9 @@ name: Update Radio Data
 on:
   schedule:
     - cron: "*/30 * * * *"
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 jobs:
