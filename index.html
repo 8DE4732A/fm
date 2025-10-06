@@ -30,7 +30,7 @@
         <script>
             document.addEventListener('DOMContentLoaded', (event) => {
                 data = {};
-                fetch('/data.json').then(rsp => rsp.json()).then(rsp => {
+                fetch('https://crimson-poetry-6661.fireliuping.workers.dev/').then(rsp => rsp.json()).then(rsp => {
                     data = rsp;
                     let region = document.querySelector('#regions');
                     for(let id in data) {
@@ -39,6 +39,9 @@
                         option.innerText = data[id]['title'];
                         region.appendChild(option);
                     }
+                }).catch(error => {
+                    console.error('Failed to fetch radio data:', error);
+                    alert('加载电台数据失败，请刷新页面重试');
                 });
                 document.querySelector('#regions').addEventListener('change', event => {
                     for (let id in data) {

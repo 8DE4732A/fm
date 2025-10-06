@@ -1,0 +1,13 @@
+name = "qtfm-worker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# KV Namespace binding
+[[kv_namespaces]]
+binding = "QTFM_KV"
+id = "your_kv_namespace_id"
+
+# Optional: Add custom domain or route
+# routes = [
+#   { pattern = "radio.example.com/*", zone_name = "example.com" }
+# ]
