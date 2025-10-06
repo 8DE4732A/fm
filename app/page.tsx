@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import CryptoJS from 'crypto-js';
 
 interface Radio {
   id: number;
@@ -23,31 +24,12 @@ type RadioData = {
   [key: string]: Region;
 };
 
-// HMAC-MD5 implementation using Web Crypto API
-async function hmacMD5(message: string, key: string): Promise<string> {
-  const encoder = new TextEncoder();
-  const keyData = encoder.encode(key);
-  const messageData = encoder.encode(message);
-
-  const cryptoKey = await crypto.subtle.importKey(
-    'raw',
-    keyData,
-    { name: 'HMAC', hash: 'SHA-256' },
-    false,
-    ['sign']
-  );
-
-  const signature = await crypto.subtle.sign('HMAC', cryptoKey, messageData);
-  const hashArray = Array.from(new Uint8Array(signature));
-  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('').substring(0, 32);
-}
-
-async function getMp3Url(id: number): Promise<string> {
+function getMp3Url(id: number): string {
   const streamPath = `/live/${id}/64k.mp3`;
   const ts = (Math.floor(Date.now() / 1000) + 3600).toString(16);
   const params = `app_id=web&path=${encodeURIComponent(streamPath)}&ts=${encodeURIComponent(ts)}`;
 
-  const sign = await hmacMD5(params, 'Lwrpu$K5oP');
+  const sign = CryptoJS.HmacMD5(params, 'Lwrpu$K5oP').toString();
 
   return `https://lhttp.qingting.fm/live/${id}/64k.mp3?app_id=web&ts=${ts}&sign=${sign}`;
 }
@@ -93,7 +75,7 @@ export default function Home() {
 
   const regions = radioData ? Object.entries(radioData) : [];
 
-  const handlePlayRadio = async (radio: Radio) => {
+  const handlePlayRadio = (radio: Radio) => {
     if (selectedRadio?.id === radio.id && isPlaying) {
       audioRef.current?.pause();
       setIsPlaying(false);
@@ -101,7 +83,7 @@ export default function Home() {
       setSelectedRadio(radio);
       setIsPlaying(true);
       if (audioRef.current) {
-        const url = await getMp3Url(radio.id);
+        const url = getMp3Url(radio.id);
         audioRef.current.src = url;
         audioRef.current.play().catch(err => {
           console.error('Failed to play audio:', err);
